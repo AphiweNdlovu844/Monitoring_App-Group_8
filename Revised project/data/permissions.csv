@@ -1,0 +1,9 @@
+Function,Administrator,Safety Officer,Mining Engineer,Maintenance Engineer,Manager
+View dashboard,True,True,True,True,True
+Worker safety data,True,True,True,False,True
+Safety incidents,True,True,True,False,True
+Equipment data,True,False,True,True,True
+Maintenance data,True,False,True,True,True
+Risk assessment,True,True,True,False,True
+Generate reports,True,True,True,True,True
+Manage users,True,False,False,False,False

@@ -1,0 +1,476 @@
+Work_Order_ID,Equipment_ID,Maintenance_Type,Description,Priority,Scheduled_Date,Completed_Date,Status,Downtime_Hours,Cost_ZAR,Trade
+WO-00001,DRL-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-03,2025-10-03,Completed,9.7,37800.0,Hydraulic
+WO-00002,LDR-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-04,2025-10-06,Completed,5.9,22300.0,Mechanical
+WO-00003,LDR-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-04,2025-10-05,Completed,8.6,37800.0,Electrical
+WO-00004,TRK-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-04,2025-10-04,Completed,4.5,35200.0,Mechanical
+WO-00005,TRK-011,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-04,2025-10-04,Completed,14.0,26900.0,Electrical
+WO-00006,CNV-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-06,2025-10-08,Completed,5.8,28200.0,Electrical
+WO-00007,CNV-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-08,2025-10-08,Completed,4.3,27400.0,Mechanical
+WO-00008,SCW-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-08,2025-10-08,Completed,4.4,8300.0,Mechanical
+WO-00009,CRS-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-09,2025-10-10,Completed,14.8,30200.0,Hydraulic
+WO-00010,DRL-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-09,2025-10-11,Completed,9.3,37300.0,Hydraulic
+WO-00011,LDR-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-10,2025-10-10,Completed,6.5,15100.0,Mechanical
+WO-00012,CNV-010,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-11,2025-10-12,Completed,10.1,25900.0,Hydraulic
+WO-00013,CRS-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-11,2025-10-11,Completed,4.4,21300.0,Electrical
+WO-00014,CNV-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-12,2025-10-12,Completed,11.5,43500.0,Electrical
+WO-00015,EXC-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-12,2025-10-14,Completed,14.4,18300.0,Mechanical
+WO-00016,EXC-004,Corrective,Brake component replacement,Medium,2025-10-17,2025-10-17,Completed,60.7,217200.0,Mechanical
+WO-00017,EXC-004,Corrective,Cooling system repair,High,2025-10-18,2025-10-19,Completed,30.9,140400.0,Hydraulic
+WO-00018,SCW-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-18,2025-10-20,Completed,8.0,37600.0,Hydraulic
+WO-00019,CRS-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-22,2025-10-22,Completed,10.0,18500.0,Mechanical
+WO-00020,DRL-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-22,2025-10-24,Completed,11.4,25400.0,Mechanical
+WO-00021,CNV-009,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-24,2025-10-25,Completed,6.3,37800.0,Mechanical
+WO-00022,CRS-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-24,2025-10-25,Completed,4.1,18400.0,Hydraulic
+WO-00023,DRL-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-24,2025-10-24,Completed,14.8,30600.0,Mechanical
+WO-00024,EXC-001,Corrective,Brake component replacement,High,2025-10-24,2025-10-24,Completed,32.1,178400.0,Mechanical
+WO-00025,SCW-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-24,2025-10-26,Completed,4.7,15700.0,Hydraulic
+WO-00026,TRK-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-25,2025-10-27,Completed,12.8,8500.0,Electrical
+WO-00027,LDR-005,Overhaul,Major component overhaul,High,2025-10-27,2025-11-03,Completed,124.4,1040000.0,Mechanical
+WO-00028,DRL-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-28,2025-10-29,Completed,14.4,24600.0,Hydraulic
+WO-00029,DRL-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-28,2025-10-29,Completed,4.7,35200.0,Mechanical
+WO-00030,TRK-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-28,2025-10-28,Completed,15.3,10700.0,Electrical
+WO-00031,DOZ-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-29,2025-10-31,Completed,12.5,37700.0,Mechanical
+WO-00032,TRK-010,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-29,2025-10-30,Completed,13.2,38300.0,Hydraulic
+WO-00033,CNV-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-31,2025-10-31,Completed,15.7,9300.0,Hydraulic
+WO-00034,LDR-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-10-31,2025-11-02,Completed,15.0,27600.0,Mechanical
+WO-00035,CNV-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-02,2025-11-02,Completed,14.7,30700.0,Electrical
+WO-00036,DOZ-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-03,2025-11-03,Completed,7.8,33200.0,Hydraulic
+WO-00037,SCW-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-05,2025-11-07,Completed,15.6,23900.0,Electrical
+WO-00038,CRS-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-06,2025-11-07,Completed,12.7,23100.0,Hydraulic
+WO-00039,DOZ-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-07,2025-11-07,Completed,8.9,8400.0,Hydraulic
+WO-00040,LDR-005,Corrective,Hydraulic leak repair,High,2025-11-09,2025-11-12,Completed,55.8,42800.0,Electrical
+WO-00041,CNV-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-11,2025-11-13,Completed,6.5,26800.0,Electrical
+WO-00042,EXC-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-12,2025-11-14,Completed,6.5,41300.0,Mechanical
+WO-00043,LDR-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-12,2025-11-14,Completed,4.7,8200.0,Hydraulic
+WO-00044,DRL-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-13,2025-11-14,Completed,6.2,10400.0,Hydraulic
+WO-00045,SCW-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-14,2025-11-14,Completed,10.1,26200.0,Hydraulic
+WO-00046,DOZ-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-15,2025-11-15,Completed,12.2,10100.0,Hydraulic
+WO-00047,SCW-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-18,2025-11-18,Completed,8.3,34200.0,Electrical
+WO-00048,CNV-002,Corrective,Bearing replacement,High,2025-11-20,2025-11-20,Completed,64.4,152400.0,Electrical
+WO-00049,LDR-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-20,2025-11-20,Completed,14.9,33400.0,Hydraulic
+WO-00050,CNV-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-22,2025-11-24,Completed,7.6,38100.0,Hydraulic
+WO-00051,DOZ-001,Corrective,Bearing replacement,Medium,2025-11-23,2025-11-26,Completed,24.6,44100.0,Electrical
+WO-00052,DOZ-001,Corrective,Drive-train repair,High,2025-11-25,2025-11-27,Completed,52.7,149800.0,Electrical
+WO-00053,CRS-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-26,2025-11-27,Completed,9.4,35600.0,Mechanical
+WO-00054,EXC-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-26,2025-11-26,Completed,14.0,19200.0,Electrical
+WO-00055,SCW-005,Corrective,Drive-train repair,Medium,2025-11-26,2025-11-27,Completed,45.1,173900.0,Electrical
+WO-00056,CNV-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-27,2025-11-27,Completed,9.9,10000.0,Hydraulic
+WO-00057,CRS-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-28,2025-11-28,Completed,15.6,39100.0,Electrical
+WO-00058,DRL-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-28,2025-11-29,Completed,10.6,13100.0,Hydraulic
+WO-00059,EXC-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-29,2025-12-01,Completed,12.7,8500.0,Electrical
+WO-00060,TRK-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-11-29,2025-12-01,Completed,4.6,37400.0,Electrical
+WO-00061,CNV-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-01,2025-12-01,Completed,8.9,13700.0,Electrical
+WO-00062,CRS-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-04,2025-12-06,Completed,15.6,33200.0,Mechanical
+WO-00063,DRL-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-05,2025-12-07,Completed,5.4,15300.0,Mechanical
+WO-00064,LDR-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-05,2025-12-05,Completed,4.0,20400.0,Electrical
+WO-00065,TRK-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-05,2025-12-07,Completed,10.4,25400.0,Mechanical
+WO-00066,CNV-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-06,2025-12-07,Completed,14.0,41700.0,Electrical
+WO-00067,DOZ-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-06,2025-12-06,Completed,15.5,37600.0,Mechanical
+WO-00068,EXC-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-06,2025-12-06,Completed,12.9,42800.0,Electrical
+WO-00069,SCW-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-06,2025-12-07,Completed,8.9,9300.0,Mechanical
+WO-00070,TRK-003,Corrective,Vibration source investigation and alignment,Medium,2025-12-07,2025-12-07,Completed,61.1,198700.0,Hydraulic
+WO-00071,TRK-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-07,2025-12-08,Completed,11.1,26400.0,Hydraulic
+WO-00072,CRS-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-08,2025-12-09,Completed,8.7,19200.0,Mechanical
+WO-00073,DRL-007,Inspection,Condition monitoring inspection,Low,2025-12-08,2025-12-08,Completed,3.8,6700.0,Mechanical
+WO-00074,CNV-010,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-09,2025-12-09,Completed,6.5,13800.0,Electrical
+WO-00075,CRS-001,Inspection,Condition monitoring inspection,Low,2025-12-10,2025-12-10,Completed,1.6,4700.0,Mechanical
+WO-00076,SCW-002,Corrective,Engine overheating diagnosis,Medium,2025-12-10,2025-12-10,Completed,38.2,33600.0,Electrical
+WO-00077,DRL-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-11,2025-12-13,Completed,8.8,14900.0,Electrical
+WO-00078,LDR-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-11,2025-12-12,Completed,10.4,30000.0,Hydraulic
+WO-00079,DRL-003,Corrective,Hydraulic leak repair,Medium,2025-12-12,2025-12-14,Completed,65.2,93000.0,Mechanical
+WO-00080,CNV-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-14,2025-12-16,Completed,5.5,14700.0,Mechanical
+WO-00081,LDR-008,Corrective,Hydraulic leak repair,Medium,2025-12-14,2025-12-16,Completed,13.9,240000.0,Mechanical
+WO-00082,TRK-004,Inspection,Condition monitoring inspection,Low,2025-12-15,2025-12-15,Completed,3.2,7100.0,Mechanical
+WO-00083,DRL-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-16,2025-12-17,Completed,13.6,29100.0,Hydraulic
+WO-00084,TRK-008,Inspection,Condition monitoring inspection,Low,2025-12-16,2025-12-16,Completed,1.9,7100.0,Mechanical
+WO-00085,SCW-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-17,2025-12-18,Completed,13.5,27100.0,Hydraulic
+WO-00086,CNV-009,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-19,2025-12-21,Completed,4.6,44800.0,Mechanical
+WO-00087,SCW-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-19,2025-12-19,Completed,5.2,40800.0,Mechanical
+WO-00088,TRK-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-20,2025-12-21,Completed,9.1,28700.0,Mechanical
+WO-00089,DRL-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-21,2025-12-21,Completed,15.8,32200.0,Electrical
+WO-00090,TRK-011,Corrective,Electrical fault repair,Medium,2025-12-22,2025-12-23,Completed,10.2,241600.0,Hydraulic
+WO-00091,DRL-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-25,2025-12-26,Completed,8.9,16000.0,Electrical
+WO-00092,TRK-012,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-25,2025-12-25,Completed,9.3,43500.0,Hydraulic
+WO-00093,CRS-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-26,2025-12-27,Completed,13.1,28000.0,Electrical
+WO-00094,DRL-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-26,2025-12-26,Completed,7.3,29500.0,Electrical
+WO-00095,TRK-009,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-26,2025-12-28,Completed,10.2,9000.0,Hydraulic
+WO-00096,TRK-005,Inspection,Condition monitoring inspection,Low,2025-12-27,2025-12-27,Completed,1.2,4300.0,Mechanical
+WO-00097,TRK-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-29,2025-12-31,Completed,4.5,25600.0,Electrical
+WO-00098,CNV-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-30,2026-01-01,Completed,6.8,40800.0,Electrical
+WO-00099,EXC-006,Corrective,Drive-train repair,High,2025-12-30,2025-12-30,Completed,8.1,96100.0,Mechanical
+WO-00100,EXC-003,Inspection,Condition monitoring inspection,Low,2025-12-31,2025-12-31,Completed,2.8,5500.0,Mechanical
+WO-00101,LDR-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2025-12-31,2026-01-01,Completed,12.7,9300.0,Hydraulic
+WO-00102,LDR-008,Corrective,Cooling system repair,Medium,2025-12-31,2026-01-03,Completed,44.7,92500.0,Hydraulic
+WO-00103,TRK-009,Corrective,Cooling system repair,High,2025-12-31,2025-12-31,Completed,71.6,35600.0,Electrical
+WO-00104,CNV-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-01,2026-01-02,Completed,4.9,42500.0,Electrical
+WO-00105,CNV-010,Inspection,Condition monitoring inspection,Low,2026-01-01,2026-01-01,Completed,2.0,6500.0,Mechanical
+WO-00106,LDR-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-05,2026-01-06,Completed,14.4,21900.0,Mechanical
+WO-00107,LDR-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-05,2026-01-06,Completed,6.7,20400.0,Mechanical
+WO-00108,SCW-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-05,2026-01-06,Completed,8.7,8800.0,Mechanical
+WO-00109,TRK-011,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-05,2026-01-07,Completed,13.3,28300.0,Hydraulic
+WO-00110,TRK-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-06,2026-01-06,Completed,11.4,9800.0,Hydraulic
+WO-00111,TRK-012,Corrective,Drive-train repair,High,2026-01-09,2026-01-12,Completed,41.3,36100.0,Hydraulic
+WO-00112,CRS-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-11,2026-01-11,Completed,14.9,40000.0,Electrical
+WO-00113,DRL-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-11,2026-01-13,Completed,11.4,36600.0,Mechanical
+WO-00114,EXC-006,Corrective,Electrical fault repair,High,2026-01-11,2026-01-11,Completed,13.3,98200.0,Electrical
+WO-00115,CNV-008,Inspection,Condition monitoring inspection,Low,2026-01-12,2026-01-12,Completed,3.5,5800.0,Mechanical
+WO-00116,CRS-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-12,2026-01-12,Completed,4.7,21700.0,Mechanical
+WO-00117,CRS-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-13,2026-01-14,Completed,15.2,30700.0,Hydraulic
+WO-00118,TRK-009,Corrective,Bearing replacement,Medium,2026-01-13,2026-01-13,Completed,47.4,169200.0,Electrical
+WO-00119,SCW-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-14,2026-01-15,Completed,14.5,24400.0,Electrical
+WO-00120,SCW-004,Inspection,Condition monitoring inspection,Low,2026-01-14,2026-01-14,Completed,3.8,7900.0,Mechanical
+WO-00121,CNV-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-15,2026-01-16,Completed,15.0,17100.0,Mechanical
+WO-00122,SCW-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-15,2026-01-16,Completed,10.1,20500.0,Hydraulic
+WO-00123,LDR-001,Corrective,Drive-train repair,Medium,2026-01-17,2026-01-17,Completed,66.3,240100.0,Mechanical
+WO-00124,EXC-005,Inspection,Condition monitoring inspection,Low,2026-01-18,2026-01-18,Completed,2.8,7100.0,Mechanical
+WO-00125,LDR-003,Inspection,Condition monitoring inspection,Low,2026-01-20,2026-01-20,Completed,2.6,7700.0,Mechanical
+WO-00126,TRK-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-20,2026-01-21,Completed,5.7,21700.0,Electrical
+WO-00127,TRK-009,Inspection,Condition monitoring inspection,Low,2026-01-20,2026-01-20,Completed,3.6,5800.0,Mechanical
+WO-00128,CRS-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-21,2026-01-21,Completed,15.2,33100.0,Hydraulic
+WO-00129,DOZ-003,Inspection,Condition monitoring inspection,Low,2026-01-21,2026-01-21,Completed,3.0,7900.0,Mechanical
+WO-00130,EXC-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-21,2026-01-21,Completed,4.8,35700.0,Hydraulic
+WO-00131,TRK-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-21,2026-01-22,Completed,12.7,41100.0,Electrical
+WO-00132,CNV-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-22,2026-01-23,Completed,7.7,28000.0,Mechanical
+WO-00133,TRK-010,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-23,2026-01-24,Completed,13.2,25500.0,Hydraulic
+WO-00134,SCW-005,Corrective,Drive-train repair,High,2026-01-24,2026-01-26,Completed,10.6,79300.0,Mechanical
+WO-00135,CNV-003,Corrective,Brake component replacement,High,2026-01-28,2026-01-31,Completed,13.8,38400.0,Hydraulic
+WO-00136,TRK-002,Inspection,Condition monitoring inspection,Low,2026-01-28,2026-01-28,Completed,3.8,7500.0,Mechanical
+WO-00137,CNV-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-30,2026-01-30,Completed,7.5,11600.0,Mechanical
+WO-00138,CNV-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-30,2026-01-30,Completed,10.0,14200.0,Mechanical
+WO-00139,TRK-011,Corrective,Cooling system repair,High,2026-01-30,2026-02-02,Completed,22.5,164600.0,Mechanical
+WO-00140,DRL-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-01-31,2026-01-31,Completed,6.2,26400.0,Mechanical
+WO-00141,LDR-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-02,2026-02-02,Completed,9.2,21300.0,Electrical
+WO-00142,SCW-006,Corrective,Vibration source investigation and alignment,High,2026-02-04,2026-02-04,Completed,51.6,79700.0,Electrical
+WO-00143,DOZ-005,Inspection,Condition monitoring inspection,Low,2026-02-05,2026-02-05,Completed,3.4,5900.0,Mechanical
+WO-00144,DRL-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-05,2026-02-05,Completed,9.4,16700.0,Mechanical
+WO-00145,LDR-007,Inspection,Condition monitoring inspection,Low,2026-02-05,2026-02-05,Completed,2.1,4100.0,Mechanical
+WO-00146,SCW-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-05,2026-02-06,Completed,5.3,22500.0,Electrical
+WO-00147,CNV-010,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-06,2026-02-08,Completed,11.7,41400.0,Electrical
+WO-00148,CRS-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-06,2026-02-06,Completed,15.8,13100.0,Hydraulic
+WO-00149,DRL-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-06,2026-02-08,Completed,14.7,15000.0,Hydraulic
+WO-00150,CNV-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-07,2026-02-07,Completed,12.4,33300.0,Electrical
+WO-00151,DRL-008,Inspection,Condition monitoring inspection,Low,2026-02-10,2026-02-10,Completed,1.1,5400.0,Mechanical
+WO-00152,LDR-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-10,2026-02-10,Completed,7.4,40100.0,Mechanical
+WO-00153,CNV-009,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-12,2026-02-12,Completed,10.9,26100.0,Hydraulic
+WO-00154,EXC-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-12,2026-02-14,Completed,6.4,25400.0,Mechanical
+WO-00155,DRL-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-13,2026-02-13,Completed,12.6,32400.0,Hydraulic
+WO-00156,CNV-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-14,2026-02-15,Completed,14.7,27000.0,Electrical
+WO-00157,SCW-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-16,2026-02-16,Completed,11.9,37500.0,Mechanical
+WO-00158,TRK-009,Corrective,Electrical fault repair,High,2026-02-17,2026-02-17,Completed,33.6,240400.0,Electrical
+WO-00159,SCW-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-18,2026-02-18,Completed,5.5,19200.0,Hydraulic
+WO-00160,DRL-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-21,2026-02-21,Completed,5.0,38800.0,Electrical
+WO-00161,LDR-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-21,2026-02-22,Completed,12.4,33000.0,Electrical
+WO-00162,DOZ-002,Inspection,Condition monitoring inspection,Low,2026-02-22,2026-02-22,Completed,1.1,7800.0,Mechanical
+WO-00163,DRL-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-22,2026-02-22,Completed,6.3,40000.0,Electrical
+WO-00164,DRL-004,Inspection,Condition monitoring inspection,Low,2026-02-23,2026-02-23,Completed,2.2,5000.0,Mechanical
+WO-00165,CRS-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-24,2026-02-24,Completed,7.0,27800.0,Hydraulic
+WO-00166,TRK-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-24,2026-02-26,Completed,5.7,36500.0,Hydraulic
+WO-00167,CNV-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-26,2026-02-26,Completed,10.2,23200.0,Mechanical
+WO-00168,CNV-001,Inspection,Condition monitoring inspection,Low,2026-02-26,2026-02-26,Completed,3.6,4500.0,Mechanical
+WO-00169,CRS-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-26,2026-02-28,Completed,7.3,36400.0,Hydraulic
+WO-00170,DOZ-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-27,2026-02-27,Completed,9.9,8900.0,Hydraulic
+WO-00171,DRL-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-02-28,2026-02-28,Completed,14.0,11900.0,Hydraulic
+WO-00172,CRS-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-01,2026-03-02,Completed,7.3,9900.0,Electrical
+WO-00173,DOZ-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-01,2026-03-02,Completed,5.6,14300.0,Mechanical
+WO-00174,TRK-011,Inspection,Condition monitoring inspection,Low,2026-03-01,2026-03-01,Completed,2.2,7200.0,Mechanical
+WO-00175,CRS-005,Corrective,Bearing replacement,Medium,2026-03-02,2026-03-05,Completed,47.4,204000.0,Hydraulic
+WO-00176,LDR-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-02,2026-03-03,Completed,13.9,13500.0,Mechanical
+WO-00177,LDR-001,Inspection,Condition monitoring inspection,Low,2026-03-03,2026-03-03,Completed,2.9,5800.0,Mechanical
+WO-00178,CNV-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-04,2026-03-05,Completed,10.0,40500.0,Mechanical
+WO-00179,TRK-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-04,2026-03-04,Completed,15.6,14000.0,Mechanical
+WO-00180,DOZ-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-05,2026-03-06,Completed,6.3,36900.0,Electrical
+WO-00181,TRK-010,Corrective,Bearing replacement,High,2026-03-05,2026-03-07,Completed,66.7,197100.0,Hydraulic
+WO-00182,EXC-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-08,2026-03-10,Completed,9.4,42100.0,Electrical
+WO-00183,SCW-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-08,2026-03-10,Completed,11.0,11700.0,Hydraulic
+WO-00184,DRL-002,Inspection,Condition monitoring inspection,Low,2026-03-09,2026-03-09,Completed,2.0,5700.0,Mechanical
+WO-00185,LDR-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-09,2026-03-11,Completed,16.0,34100.0,Mechanical
+WO-00186,CRS-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-10,2026-03-11,Completed,12.8,11700.0,Electrical
+WO-00187,DRL-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-10,2026-03-11,Completed,12.4,26900.0,Hydraulic
+WO-00188,SCW-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-10,2026-03-11,Completed,9.4,42000.0,Mechanical
+WO-00189,TRK-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-12,2026-03-12,Completed,11.8,31900.0,Mechanical
+WO-00190,SCW-006,Corrective,Electrical fault repair,High,2026-03-14,2026-03-14,Completed,41.0,241800.0,Mechanical
+WO-00191,DOZ-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-15,2026-03-16,Completed,10.3,36100.0,Electrical
+WO-00192,SCW-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-15,2026-03-17,Completed,13.7,29000.0,Electrical
+WO-00193,TRK-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-15,2026-03-15,Completed,14.5,15100.0,Mechanical
+WO-00194,TRK-010,Inspection,Condition monitoring inspection,Low,2026-03-15,2026-03-15,Completed,2.1,7600.0,Mechanical
+WO-00195,CRS-003,Inspection,Condition monitoring inspection,Low,2026-03-16,2026-03-16,Completed,1.5,6200.0,Mechanical
+WO-00196,EXC-002,Corrective,Hydraulic leak repair,Medium,2026-03-17,2026-03-18,Completed,47.9,187300.0,Mechanical
+WO-00197,CNV-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-18,2026-03-18,Completed,6.6,26700.0,Electrical
+WO-00198,CRS-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-19,2026-03-21,Completed,6.5,26200.0,Hydraulic
+WO-00199,DRL-003,Inspection,Condition monitoring inspection,Low,2026-03-21,2026-03-21,Completed,1.9,6500.0,Mechanical
+WO-00200,TRK-009,Corrective,Brake component replacement,Medium,2026-03-21,2026-03-23,Completed,44.2,128000.0,Mechanical
+WO-00201,TRK-012,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-25,2026-03-25,Completed,11.1,32200.0,Electrical
+WO-00202,TRK-009,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-26,2026-03-28,Completed,7.2,26900.0,Mechanical
+WO-00203,CNV-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-27,2026-03-28,Completed,14.8,35500.0,Electrical
+WO-00204,EXC-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-27,2026-03-29,Completed,11.9,43600.0,Mechanical
+WO-00205,CNV-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-28,2026-03-30,Completed,11.5,25600.0,Mechanical
+WO-00206,EXC-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-03-28,2026-03-30,Completed,7.3,25500.0,Mechanical
+WO-00207,CRS-005,Corrective,Brake component replacement,High,2026-03-29,2026-03-30,Completed,50.3,153800.0,Electrical
+WO-00208,DRL-007,Corrective,Drive-train repair,High,2026-03-29,2026-03-29,Completed,51.6,76000.0,Hydraulic
+WO-00209,LDR-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-01,2026-04-03,Completed,13.9,17900.0,Mechanical
+WO-00210,LDR-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-01,2026-04-02,Completed,12.1,31200.0,Mechanical
+WO-00211,TRK-002,Corrective,Drive-train repair,High,2026-04-01,2026-04-01,Completed,42.0,64300.0,Hydraulic
+WO-00212,DRL-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-02,2026-04-03,Completed,4.0,31200.0,Hydraulic
+WO-00213,TRK-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-02,2026-04-03,Completed,7.4,12900.0,Hydraulic
+WO-00214,TRK-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-02,2026-04-04,Completed,12.1,29600.0,Electrical
+WO-00215,DRL-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-03,2026-04-03,Completed,10.4,28500.0,Hydraulic
+WO-00216,SCW-002,Inspection,Condition monitoring inspection,Low,2026-04-04,2026-04-04,Completed,1.7,7100.0,Mechanical
+WO-00217,CNV-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-05,2026-04-05,Completed,7.4,43600.0,Electrical
+WO-00218,TRK-011,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-05,2026-04-05,Completed,15.9,35500.0,Electrical
+WO-00219,CNV-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-06,2026-04-07,Completed,7.1,23500.0,Mechanical
+WO-00220,DOZ-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-08,2026-04-09,Completed,11.5,41500.0,Hydraulic
+WO-00221,EXC-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-08,2026-04-09,Completed,9.0,23500.0,Electrical
+WO-00222,LDR-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-08,2026-04-09,Completed,5.7,23000.0,Hydraulic
+WO-00223,SCW-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-08,2026-04-10,Completed,6.7,33700.0,Mechanical
+WO-00224,CNV-009,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-09,2026-04-09,Completed,6.0,34700.0,Hydraulic
+WO-00225,EXC-006,Corrective,Brake component replacement,High,2026-04-09,2026-04-11,Completed,18.2,24700.0,Hydraulic
+WO-00226,LDR-004,Inspection,Condition monitoring inspection,Low,2026-04-09,2026-04-09,Completed,3.3,5200.0,Mechanical
+WO-00227,DRL-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-11,2026-04-13,Completed,5.9,15600.0,Mechanical
+WO-00228,CNV-010,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-12,2026-04-14,Completed,10.8,19400.0,Mechanical
+WO-00229,CNV-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-13,2026-04-15,Completed,6.1,29800.0,Mechanical
+WO-00230,DRL-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-14,2026-04-14,Completed,5.1,17800.0,Hydraulic
+WO-00231,CRS-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-15,2026-04-17,Completed,6.3,38500.0,Hydraulic
+WO-00232,CRS-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-15,2026-04-15,Completed,12.1,41800.0,Mechanical
+WO-00233,LDR-006,Corrective,Hydraulic leak repair,High,2026-04-15,2026-04-16,Completed,34.2,239500.0,Mechanical
+WO-00234,DOZ-001,Corrective,Hydraulic leak repair,Medium,2026-04-16,2026-04-18,Completed,33.2,45300.0,Electrical
+WO-00235,CRS-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-17,2026-04-19,Completed,15.1,13200.0,Mechanical
+WO-00236,LDR-002,Inspection,Condition monitoring inspection,Low,2026-04-17,2026-04-17,Completed,1.5,3400.0,Mechanical
+WO-00237,SCW-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-19,2026-04-19,Completed,12.4,44100.0,Mechanical
+WO-00238,SCW-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-19,2026-04-21,Completed,4.8,15500.0,Hydraulic
+WO-00239,CNV-005,Inspection,Condition monitoring inspection,Low,2026-04-20,2026-04-20,Completed,2.9,5000.0,Mechanical
+WO-00240,TRK-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-20,2026-04-20,Completed,11.3,19400.0,Hydraulic
+WO-00241,CRS-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-22,2026-04-24,Completed,4.0,16800.0,Hydraulic
+WO-00242,DRL-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-22,2026-04-24,Completed,4.6,24500.0,Mechanical
+WO-00243,DRL-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-22,2026-04-22,Completed,13.5,35300.0,Hydraulic
+WO-00244,TRK-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-22,2026-04-22,Completed,9.5,27300.0,Electrical
+WO-00245,CNV-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-23,2026-04-24,Completed,4.1,16300.0,Hydraulic
+WO-00246,CNV-009,Overhaul,Major component overhaul,High,2026-04-23,2026-04-27,Completed,124.3,1059000.0,Mechanical
+WO-00247,CNV-004,Corrective,Drive-train repair,High,2026-04-24,2026-04-25,Completed,16.1,138500.0,Mechanical
+WO-00248,DRL-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-24,2026-04-26,Completed,7.8,18800.0,Mechanical
+WO-00249,CRS-004,Inspection,Condition monitoring inspection,Low,2026-04-26,2026-04-26,Completed,1.5,6100.0,Mechanical
+WO-00250,LDR-008,Inspection,Condition monitoring inspection,Low,2026-04-26,2026-04-26,Completed,1.8,2300.0,Mechanical
+WO-00251,TRK-010,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-27,2026-04-29,Completed,10.8,37100.0,Electrical
+WO-00252,CRS-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-04-28,2026-04-29,Completed,7.8,15800.0,Electrical
+WO-00253,CNV-003,Inspection,Condition monitoring inspection,Low,2026-04-29,2026-04-29,Completed,1.0,6900.0,Mechanical
+WO-00254,TRK-012,Overhaul,Major component overhaul,High,2026-05-01,2026-05-08,Completed,137.0,1629000.0,Mechanical
+WO-00255,SCW-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-05-05,2026-05-06,Completed,10.4,22200.0,Hydraulic
+WO-00256,CNV-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-05-06,2026-05-08,Completed,12.5,27000.0,Mechanical
+WO-00257,DRL-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-05-06,2026-05-06,Completed,7.8,44400.0,Mechanical
+WO-00258,EXC-002,Inspection,Condition monitoring inspection,Low,2026-05-06,2026-05-06,Completed,2.7,5400.0,Mechanical
+WO-00259,LDR-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-05-06,2026-05-08,Completed,9.5,41300.0,Mechanical
+WO-00260,TRK-009,Corrective,Hydraulic leak repair,High,2026-05-07,2026-05-08,Completed,23.1,182200.0,Hydraulic
+WO-00261,SCW-006,Inspection,Condition monitoring inspection,Low,2026-05-11,2026-05-11,Completed,1.8,3900.0,Mechanical
+WO-00262,LDR-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-05-14,2026-05-14,Completed,12.2,8600.0,Electrical
+WO-00263,SCW-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-05-14,2026-05-15,Completed,5.0,34300.0,Hydraulic
+WO-00264,CNV-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-05-15,2026-05-16,Completed,6.6,11400.0,Electrical
+WO-00265,CRS-002,Inspection,Condition monitoring inspection,Low,2026-05-15,2026-05-15,Completed,3.1,5300.0,Mechanical
+WO-00266,SCW-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-05-16,2026-05-18,Completed,15.5,35200.0,Hydraulic
+WO-00267,EXC-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-05-18,2026-05-20,Completed,6.2,27200.0,Electrical
+WO-00268,LDR-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-05-18,2026-05-20,Completed,13.0,9700.0,Mechanical
+WO-00269,TRK-001,Corrective,Bearing replacement,High,2026-05-21,2026-05-21,Completed,47.9,74200.0,Mechanical
+WO-00270,DOZ-004,Inspection,Condition monitoring inspection,Low,2026-05-22,2026-05-22,Completed,3.1,6300.0,Mechanical
+WO-00271,CNV-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-05-23,2026-05-23,Completed,6.8,19900.0,Mechanical
+WO-00272,LDR-008,Corrective,Engine overheating diagnosis,Medium,2026-05-23,2026-05-24,Completed,12.0,211200.0,Electrical
+WO-00273,CNV-004,Inspection,Condition monitoring inspection,Low,2026-05-24,2026-05-24,Completed,3.1,3000.0,Mechanical
+WO-00274,SCW-005,Inspection,Condition monitoring inspection,Low,2026-05-26,2026-05-26,Completed,3.9,2000.0,Mechanical
+WO-00275,CRS-004,Corrective,Drive-train repair,High,2026-05-27,2026-05-30,Completed,16.7,16200.0,Electrical
+WO-00276,LDR-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-05-28,2026-05-30,Completed,6.9,8000.0,Hydraulic
+WO-00277,TRK-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-05-28,2026-05-30,Completed,13.6,42400.0,Electrical
+WO-00278,DOZ-001,Corrective,Engine overheating diagnosis,High,2026-05-29,2026-06-01,Completed,37.7,178900.0,Electrical
+WO-00279,CNV-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-05-30,2026-05-31,Completed,11.0,16300.0,Mechanical
+WO-00280,CNV-007,Inspection,Condition monitoring inspection,Low,2026-05-30,2026-05-30,Completed,3.0,3400.0,Mechanical
+WO-00281,DRL-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-05-30,2026-05-31,Completed,8.2,37800.0,Electrical
+WO-00282,TRK-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-05-30,2026-05-30,Completed,12.8,17700.0,Electrical
+WO-00283,DRL-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-05-31,2026-05-31,Completed,9.2,38000.0,Mechanical
+WO-00284,CRS-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-01,2026-06-02,Completed,15.0,31400.0,Hydraulic
+WO-00285,CRS-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-02,2026-06-04,Completed,12.1,9100.0,Mechanical
+WO-00286,CNV-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-03,2026-06-05,Completed,5.7,22400.0,Mechanical
+WO-00287,CRS-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-03,2026-06-04,Completed,15.0,33100.0,Electrical
+WO-00288,DRL-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-06,2026-06-06,Completed,8.7,39900.0,Hydraulic
+WO-00289,LDR-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-06,2026-06-08,Completed,14.4,22100.0,Mechanical
+WO-00290,CNV-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-07,2026-06-09,Completed,12.5,19600.0,Hydraulic
+WO-00291,CNV-009,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-07,2026-06-09,Completed,14.1,15800.0,Hydraulic
+WO-00292,CNV-010,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-11,2026-06-11,Completed,13.2,19500.0,Mechanical
+WO-00293,CRS-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-11,2026-06-13,Completed,7.7,41300.0,Electrical
+WO-00294,SCW-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-11,2026-06-12,Completed,12.9,24000.0,Electrical
+WO-00295,TRK-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-11,2026-06-11,Completed,9.6,41900.0,Mechanical
+WO-00296,DRL-006,Inspection,Condition monitoring inspection,Low,2026-06-12,2026-06-12,Completed,3.5,4900.0,Mechanical
+WO-00297,CNV-002,Inspection,Condition monitoring inspection,Low,2026-06-13,2026-06-13,Completed,3.5,2800.0,Mechanical
+WO-00298,SCW-003,Inspection,Condition monitoring inspection,Low,2026-06-13,2026-06-13,Completed,3.7,5300.0,Mechanical
+WO-00299,CRS-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-14,2026-06-15,Completed,6.8,44100.0,Mechanical
+WO-00300,SCW-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-14,2026-06-14,Completed,6.0,23900.0,Hydraulic
+WO-00301,SCW-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-15,2026-06-17,Completed,11.6,10000.0,Hydraulic
+WO-00302,CNV-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-16,2026-06-16,Completed,11.5,31600.0,Hydraulic
+WO-00303,DRL-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-16,2026-06-18,Completed,12.6,34500.0,Mechanical
+WO-00304,EXC-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-16,2026-06-16,Completed,4.5,19300.0,Hydraulic
+WO-00305,TRK-003,Inspection,Condition monitoring inspection,Low,2026-06-16,2026-06-16,Completed,1.4,3500.0,Mechanical
+WO-00306,CNV-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-18,2026-06-20,Completed,12.2,28700.0,Hydraulic
+WO-00307,TRK-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-18,2026-06-20,Completed,7.6,30700.0,Hydraulic
+WO-00308,DRL-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-19,2026-06-21,Completed,9.3,21200.0,Mechanical
+WO-00309,DRL-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-20,2026-06-20,Completed,8.5,26800.0,Electrical
+WO-00310,EXC-001,Inspection,Condition monitoring inspection,Low,2026-06-21,2026-06-21,Completed,1.5,5400.0,Mechanical
+WO-00311,TRK-009,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-21,2026-06-22,Completed,11.1,41500.0,Mechanical
+WO-00312,DOZ-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-23,2026-06-24,Completed,5.5,13000.0,Hydraulic
+WO-00313,EXC-001,Corrective,Vibration source investigation and alignment,Medium,2026-06-23,2026-06-23,Completed,9.3,126500.0,Electrical
+WO-00314,DRL-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-25,2026-06-27,Completed,9.4,40800.0,Hydraulic
+WO-00315,LDR-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-25,2026-06-26,Completed,8.9,36500.0,Electrical
+WO-00316,DOZ-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-26,2026-06-27,Completed,4.2,37900.0,Mechanical
+WO-00317,TRK-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-26,2026-06-27,Completed,7.9,27000.0,Electrical
+WO-00318,LDR-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-27,2026-06-29,Completed,10.3,22900.0,Hydraulic
+WO-00319,LDR-006,Inspection,Condition monitoring inspection,Low,2026-06-27,2026-06-27,Completed,3.1,3000.0,Mechanical
+WO-00320,TRK-012,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-28,2026-06-29,Completed,4.9,9800.0,Hydraulic
+WO-00321,EXC-006,Inspection,Condition monitoring inspection,Low,2026-06-29,2026-06-29,Completed,2.4,7400.0,Mechanical
+WO-00322,SCW-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-06-30,2026-07-01,Completed,7.1,41700.0,Mechanical
+WO-00323,DOZ-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-01,2026-07-01,Completed,7.5,16600.0,Mechanical
+WO-00324,DRL-005,Inspection,Condition monitoring inspection,Low,2026-07-01,2026-07-01,Completed,2.9,6800.0,Mechanical
+WO-00325,EXC-002,Corrective,Electrical fault repair,Medium,2026-07-01,2026-07-02,Completed,17.6,178600.0,Mechanical
+WO-00326,TRK-011,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-01,2026-07-01,Completed,8.0,20000.0,Mechanical
+WO-00327,EXC-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-02,2026-07-02,Completed,8.2,38200.0,Hydraulic
+WO-00328,LDR-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-02,2026-07-04,Completed,5.0,28100.0,Electrical
+WO-00329,TRK-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-02,2026-07-03,Completed,15.8,28900.0,Electrical
+WO-00330,CNV-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-04,2026-07-05,Completed,15.8,44900.0,Hydraulic
+WO-00331,DRL-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-05,2026-07-06,Completed,8.6,41900.0,Electrical
+WO-00332,LDR-001,Corrective,Cooling system repair,High,2026-07-07,2026-07-10,Completed,19.6,40500.0,Hydraulic
+WO-00333,CNV-002,Corrective,Cooling system repair,High,2026-07-09,2026-07-12,Completed,37.9,170200.0,Hydraulic
+WO-00334,CNV-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-10,2026-07-12,Completed,13.5,8100.0,Mechanical
+WO-00335,DRL-001,Inspection,Condition monitoring inspection,Low,2026-07-10,2026-07-10,Completed,1.6,6400.0,Mechanical
+WO-00336,LDR-008,Corrective,Brake component replacement,Medium,2026-07-10,2026-07-13,Completed,13.1,100900.0,Mechanical
+WO-00337,CNV-010,Corrective,Drive-train repair,Medium,2026-07-11,2026-07-12,Completed,40.4,126300.0,Mechanical
+WO-00338,SCW-001,Inspection,Condition monitoring inspection,Low,2026-07-12,2026-07-12,Completed,3.1,6600.0,Mechanical
+WO-00339,CRS-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-13,2026-07-14,Completed,4.1,22400.0,Electrical
+WO-00340,LDR-005,Inspection,Condition monitoring inspection,Low,2026-07-16,2026-07-16,Completed,3.1,4000.0,Mechanical
+WO-00341,CRS-001,Overhaul,Major component overhaul,High,2026-07-17,2026-07-25,Completed,183.6,843000.0,Mechanical
+WO-00342,TRK-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-17,2026-07-18,Completed,9.1,10300.0,Mechanical
+WO-00343,CRS-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-18,2026-07-18,Completed,10.5,19300.0,Electrical
+WO-00344,DOZ-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-18,2026-07-19,Completed,11.7,28300.0,Hydraulic
+WO-00345,SCW-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-18,2026-07-18,Completed,5.8,8700.0,Hydraulic
+WO-00346,TRK-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-19,2026-07-19,Completed,14.6,15700.0,Mechanical
+WO-00347,CRS-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-20,2026-07-21,Completed,9.2,22900.0,Electrical
+WO-00348,SCW-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-20,2026-07-22,Completed,5.0,38600.0,Electrical
+WO-00349,TRK-007,Inspection,Condition monitoring inspection,Low,2026-07-20,2026-07-20,Completed,1.9,5700.0,Mechanical
+WO-00350,CRS-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-21,2026-07-21,Completed,4.2,24800.0,Electrical
+WO-00351,EXC-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-22,2026-07-24,Completed,4.2,22800.0,Mechanical
+WO-00352,EXC-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-23,2026-07-24,Completed,4.7,8100.0,Hydraulic
+WO-00353,EXC-004,Inspection,Condition monitoring inspection,Low,2026-07-23,2026-07-23,Completed,2.4,7700.0,Mechanical
+WO-00354,TRK-010,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-25,2026-07-27,Completed,9.6,8100.0,Electrical
+WO-00355,CNV-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-26,2026-07-26,Completed,6.7,28900.0,Electrical
+WO-00356,LDR-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-07-30,2026-07-31,Completed,5.2,44300.0,Hydraulic
+WO-00357,DOZ-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-02,2026-08-03,Completed,14.2,38700.0,Mechanical
+WO-00358,DRL-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-02,2026-08-02,Completed,7.3,41600.0,Electrical
+WO-00359,DRL-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-02,2026-08-03,Completed,7.8,9600.0,Hydraulic
+WO-00360,CNV-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-03,2026-08-04,Completed,12.3,33100.0,Mechanical
+WO-00361,CRS-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-03,2026-08-04,Completed,4.5,14800.0,Electrical
+WO-00362,TRK-001,Inspection,Condition monitoring inspection,Low,2026-08-03,2026-08-03,Completed,3.5,7100.0,Mechanical
+WO-00363,CNV-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-06,2026-08-08,Completed,5.9,14900.0,Electrical
+WO-00364,CNV-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-06,2026-08-08,Completed,7.0,20600.0,Hydraulic
+WO-00365,CNV-009,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-06,2026-08-08,Completed,9.2,9300.0,Mechanical
+WO-00366,DRL-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-08,2026-08-10,Completed,6.4,9400.0,Mechanical
+WO-00367,SCW-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-09,2026-08-11,Completed,14.4,10300.0,Hydraulic
+WO-00368,SCW-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-09,2026-08-11,Completed,14.1,12700.0,Hydraulic
+WO-00369,TRK-006,Inspection,Condition monitoring inspection,Low,2026-08-09,2026-08-09,Completed,2.7,7700.0,Mechanical
+WO-00370,CRS-001,Corrective,Cooling system repair,Medium,2026-08-11,2026-08-13,Completed,56.5,229500.0,Electrical
+WO-00371,EXC-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-11,2026-08-11,Completed,11.5,36800.0,Mechanical
+WO-00372,CRS-005,Inspection,Condition monitoring inspection,Low,2026-08-12,2026-08-12,Completed,3.1,7700.0,Mechanical
+WO-00373,DRL-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-12,2026-08-13,Completed,12.4,8400.0,Mechanical
+WO-00374,CNV-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-13,2026-08-13,Completed,15.6,15800.0,Hydraulic
+WO-00375,LDR-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-13,2026-08-15,Completed,5.8,38200.0,Hydraulic
+WO-00376,CNV-010,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-14,2026-08-16,Completed,6.2,33100.0,Electrical
+WO-00377,DOZ-001,Inspection,Condition monitoring inspection,Low,2026-08-14,2026-08-14,Completed,2.1,4600.0,Mechanical
+WO-00378,DRL-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-14,2026-08-16,Completed,6.7,34400.0,Electrical
+WO-00379,TRK-012,Corrective,Cooling system repair,Medium,2026-08-14,2026-08-15,Completed,20.5,33700.0,Mechanical
+WO-00380,SCW-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-15,2026-08-17,Completed,13.3,33000.0,Hydraulic
+WO-00381,CNV-009,Inspection,Condition monitoring inspection,Low,2026-08-17,2026-08-17,Completed,1.5,4000.0,Mechanical
+WO-00382,LDR-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-17,2026-08-18,Completed,6.2,39900.0,Hydraulic
+WO-00383,CNV-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-20,2026-08-22,Completed,12.8,20300.0,Mechanical
+WO-00384,DRL-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-22,2026-08-24,Completed,12.6,27700.0,Mechanical
+WO-00385,DRL-003,Preventive,"Scheduled service - fluids, filters and inspection",High,2026-08-22,,Overdue,,,Hydraulic
+WO-00386,CRS-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-26,2026-08-27,Completed,5.9,11700.0,Mechanical
+WO-00387,TRK-002,Preventive,"Scheduled service - fluids, filters and inspection",High,2026-08-28,,Overdue,,,Hydraulic
+WO-00388,CNV-010,Corrective,Electrical fault repair,Medium,2026-08-30,2026-09-01,Completed,66.5,19100.0,Mechanical
+WO-00389,CRS-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-30,2026-08-30,Completed,4.2,30700.0,Electrical
+WO-00390,CRS-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-30,2026-08-30,Completed,16.0,8900.0,Electrical
+WO-00391,CRS-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-30,2026-08-31,Completed,6.9,10000.0,Electrical
+WO-00392,TRK-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-30,2026-08-30,Completed,10.0,9700.0,Hydraulic
+WO-00393,LDR-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-08-31,2026-09-02,Completed,12.8,36100.0,Electrical
+WO-00394,SCW-006,Preventive,"Scheduled service - fluids, filters and inspection",Critical,2026-08-31,,Overdue,,,Electrical
+WO-00395,CNV-006,Inspection,Condition monitoring inspection,Low,2026-09-01,2026-09-01,Completed,3.4,2100.0,Mechanical
+WO-00396,TRK-012,Corrective,Bearing replacement,Medium,2026-09-02,2026-09-05,Completed,44.7,115500.0,Hydraulic
+WO-00397,LDR-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-09-03,2026-09-04,Completed,10.8,42900.0,Mechanical
+WO-00398,TRK-003,Corrective,Bearing replacement,Medium,2026-09-03,2026-09-05,Completed,30.3,95700.0,Hydraulic
+WO-00399,TRK-008,Corrective,Vibration source investigation and alignment,Medium,2026-09-03,2026-09-04,Completed,50.0,76200.0,Electrical
+WO-00400,TRK-012,Inspection,Condition monitoring inspection,Low,2026-09-03,2026-09-03,Completed,1.4,2300.0,Mechanical
+WO-00401,DRL-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-09-04,2026-09-04,Completed,13.7,8500.0,Hydraulic
+WO-00402,CNV-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-09-05,2026-09-06,Completed,4.1,8700.0,Electrical
+WO-00403,CNV-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-09-06,2026-09-08,Completed,10.3,44500.0,Electrical
+WO-00404,LDR-005,Corrective,Bearing replacement,Medium,2026-09-07,2026-09-08,Completed,12.0,217500.0,Electrical
+WO-00405,EXC-006,Preventive,"Scheduled service - fluids, filters and inspection",Critical,2026-09-10,,Overdue,,,Mechanical
+WO-00406,TRK-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-09-11,2026-09-12,Completed,5.7,36300.0,Mechanical
+WO-00407,TRK-009,Corrective,Bearing replacement,High,2026-09-12,2026-09-15,Completed,44.6,174500.0,Hydraulic
+WO-00408,CRS-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-09-14,2026-09-14,Completed,6.0,16400.0,Hydraulic
+WO-00409,TRK-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-09-14,2026-09-16,Completed,8.8,26300.0,Hydraulic
+WO-00410,SCW-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-09-17,2026-09-19,Completed,15.1,24700.0,Electrical
+WO-00411,TRK-012,Preventive,"Scheduled service - fluids, filters and inspection",Critical,2026-09-21,,Overdue,,,Hydraulic
+WO-00412,LDR-004,Corrective,Electrical fault repair,High,2026-09-22,,In Progress,,,Electrical
+WO-00413,SCW-002,Corrective,Drive-train repair,High,2026-09-22,,In Progress,,,Mechanical
+WO-00414,TRK-001,Preventive,"Scheduled service - fluids, filters and inspection",High,2026-09-22,,Overdue,,,Hydraulic
+WO-00415,LDR-005,Corrective,Cooling system repair,High,2026-09-23,,In Progress,,,Mechanical
+WO-00416,TRK-009,Preventive,"Scheduled service - fluids, filters and inspection",High,2026-09-23,,Overdue,,,Hydraulic
+WO-00417,CNV-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-09-24,2026-09-25,Completed,14.7,39900.0,Mechanical
+WO-00418,DRL-006,Corrective,Electrical fault repair,High,2026-09-28,,In Progress,,,Electrical
+WO-00419,DRL-007,Corrective,Engine overheating diagnosis,High,2026-09-28,,In Progress,,,Mechanical
+WO-00420,CNV-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-09-29,2026-09-29,Completed,10.4,30500.0,Mechanical
+WO-00421,CNV-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-10-01,,Scheduled,,,Hydraulic
+WO-00422,CNV-009,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-10-01,2026-10-02,Completed,9.1,31200.0,Hydraulic
+WO-00423,LDR-002,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-10-01,,Scheduled,,,Hydraulic
+WO-00424,TRK-011,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-10-01,,Scheduled,,,Mechanical
+WO-00425,SCW-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-10-03,,Scheduled,,,Electrical
+WO-00426,TRK-006,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-10-03,,Scheduled,,,Electrical
+WO-00427,CNV-007,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-10-04,,Scheduled,,,Mechanical
+WO-00428,CRS-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-10-05,2026-10-05,Completed,11.5,21800.0,Mechanical
+WO-00429,DRL-004,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-10-05,2026-10-05,Completed,8.5,40600.0,Electrical
+WO-00430,SCW-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-10-07,2026-10-09,Completed,7.7,30700.0,Mechanical
+WO-00431,DRL-008,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-10-08,,Scheduled,,,Mechanical
+WO-00432,EXC-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-10-09,,Scheduled,,,Mechanical
+WO-00433,CNV-001,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-10-12,2026-10-14,Completed,11.9,12100.0,Mechanical
+WO-00434,DRL-005,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-10-13,2026-10-13,Completed,9.1,24800.0,Mechanical
+WO-00435,SCW-003,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-10-13,,Scheduled,,,Mechanical
+WO-00436,CNV-010,Preventive,"Scheduled service - fluids, filters and inspection",Medium,2026-10-16,2026-10-17,Completed,6.7,25000.0,Hydraulic
+WO-00437,CRS-003,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-10-17,,Scheduled,,,Hydraulic
+WO-00438,DRL-002,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-10-17,,Scheduled,,,Hydraulic
+WO-00439,TRK-005,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-10-18,,Scheduled,,,Hydraulic
+WO-00440,CRS-001,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-10-19,,Scheduled,,,Electrical
+WO-00441,CRS-004,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-10-19,,Scheduled,,,Mechanical
+WO-00442,TRK-003,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-10-19,,Scheduled,,,Hydraulic
+WO-00443,DOZ-002,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-10-22,,Scheduled,,,Mechanical
+WO-00444,CNV-005,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-10-23,,Scheduled,,,Hydraulic
+WO-00445,DOZ-005,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-10-24,,Scheduled,,,Electrical
+WO-00446,LDR-008,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-10-24,,Scheduled,,,Hydraulic
+WO-00447,TRK-010,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-10-25,,Scheduled,,,Mechanical
+WO-00448,CRS-002,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-10-26,,Scheduled,,,Mechanical
+WO-00449,EXC-001,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-10-30,,Scheduled,,,Electrical
+WO-00450,DOZ-003,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-11-03,,Scheduled,,,Hydraulic
+WO-00451,CNV-006,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-11-06,,Scheduled,,,Mechanical
+WO-00452,DRL-001,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-11-06,,Scheduled,,,Mechanical
+WO-00453,CNV-008,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-11-08,,Scheduled,,,Electrical
+WO-00454,DOZ-001,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-11-11,,Scheduled,,,Mechanical
+WO-00455,LDR-003,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-11-11,,Scheduled,,,Electrical
+WO-00456,EXC-003,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-11-17,,Scheduled,,,Hydraulic
+WO-00457,EXC-004,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-11-20,,Scheduled,,,Mechanical
+WO-00458,LDR-006,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-11-20,,Scheduled,,,Hydraulic
+WO-00459,CRS-005,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-11-21,,Scheduled,,,Hydraulic
+WO-00460,SCW-001,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-11-21,,Scheduled,,,Electrical
+WO-00461,CNV-002,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-11-23,,Scheduled,,,Hydraulic
+WO-00462,LDR-001,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-11-28,,Scheduled,,,Mechanical
+WO-00463,DOZ-004,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-11-30,,Scheduled,,,Hydraulic
+WO-00464,LDR-007,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-12-01,,Scheduled,,,Mechanical
+WO-00465,CNV-004,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-12-02,,Scheduled,,,Electrical
+WO-00466,TRK-004,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-12-02,,Scheduled,,,Hydraulic
+WO-00467,CNV-009,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-12-05,,Scheduled,,,Hydraulic
+WO-00468,DRL-004,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-12-07,,Scheduled,,,Electrical
+WO-00469,TRK-008,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-12-08,,Scheduled,,,Mechanical
+WO-00470,CNV-001,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-12-09,,Scheduled,,,Electrical
+WO-00471,DRL-005,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-12-09,,Scheduled,,,Electrical
+WO-00472,SCW-005,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-12-10,,Scheduled,,,Hydraulic
+WO-00473,EXC-002,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-12-11,,Scheduled,,,Mechanical
+WO-00474,TRK-007,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-12-12,,Scheduled,,,Mechanical
+WO-00475,CNV-010,Preventive,"Scheduled service - fluids, filters and inspection",Low,2026-12-14,,Scheduled,,,Hydraulic

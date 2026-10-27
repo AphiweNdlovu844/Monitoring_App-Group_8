@@ -1,0 +1,401 @@
+Worker_ID,Department,Job_Role,Shift,PPE_Compliant,PPE_Compliance_Pct,Safety_Training_Status,Fatigue_Level,Safety_Observations_30d,High_Risk_Observations_30d,Near_Misses_12m,Previous_Incidents,Risk_Level
+WK-0001,Engineering & Maintenance,Electrician,Afternoon,Yes,98,Up to Date,3,0,0,0,2,Low
+WK-0002,Logistics & Haulage,Loader Operator,Night,No,75,Up to Date,7,2,0,1,0,Medium
+WK-0003,Underground Production,Loco Operator,Day,Yes,97,Expiring Soon,3,4,0,0,0,Low
+WK-0004,Processing Plant,Plant Operator,Afternoon,Yes,100,Up to Date,1,2,0,0,0,Low
+WK-0005,Surface Mining,Dump Truck Operator,Afternoon,Yes,91,Up to Date,6,2,0,0,1,Low
+WK-0006,Geology & Survey,Sampler,Night,Yes,100,Up to Date,9,1,2,0,1,Medium
+WK-0007,Logistics & Haulage,Dispatcher,Day,Yes,100,Up to Date,3,0,0,1,0,Low
+WK-0008,Processing Plant,Control Room Operator,Night,Yes,90,Up to Date,8,4,0,0,1,Medium
+WK-0009,Engineering & Maintenance,Fitter,Afternoon,Yes,93,Up to Date,3,5,0,0,1,Low
+WK-0010,Drilling & Blasting,Blasting Assistant,Night,Yes,89,Expiring Soon,4,5,0,0,2,Medium
+WK-0011,Engineering & Maintenance,Artisan Assistant,Afternoon,Yes,97,Up to Date,3,2,0,0,1,Low
+WK-0012,Drilling & Blasting,Shift Supervisor,Afternoon,No,79,Up to Date,7,1,0,1,3,High
+WK-0013,Surface Mining,Dump Truck Operator,Night,Yes,89,Up to Date,8,1,0,1,2,High
+WK-0014,Surface Mining,Dump Truck Operator,Day,No,80,Up to Date,5,5,0,2,0,Low
+WK-0015,Underground Production,Shift Supervisor,Day,Yes,90,Expiring Soon,2,4,1,0,0,Low
+WK-0016,Drilling & Blasting,Drill Operator,Afternoon,Yes,89,Up to Date,6,3,1,0,2,Medium
+WK-0017,Drilling & Blasting,Shift Supervisor,Night,No,73,Expired,3,3,1,3,1,High
+WK-0018,Processing Plant,Crusher Operator,Night,No,80,Up to Date,7,6,0,1,1,Medium
+WK-0019,Underground Production,Timberman,Day,Yes,90,Expired,3,5,1,1,0,Medium
+WK-0020,Drilling & Blasting,Blasting Assistant,Afternoon,Yes,100,Expiring Soon,3,5,0,1,2,Medium
+WK-0021,Surface Mining,Dump Truck Operator,Afternoon,No,82,Expiring Soon,3,4,0,0,1,Medium
+WK-0022,Underground Production,Rock Drill Operator,Day,Yes,94,Up to Date,1,2,1,0,0,Low
+WK-0023,Processing Plant,Plant Operator,Night,No,83,Expiring Soon,2,4,0,0,1,Medium
+WK-0024,Drilling & Blasting,Shift Supervisor,Night,Yes,85,Up to Date,5,5,2,0,2,Medium
+WK-0025,Surface Mining,Pit Supervisor,Day,Yes,100,Up to Date,2,3,0,0,1,Low
+WK-0026,Underground Production,Shift Supervisor,Day,Yes,95,Up to Date,5,1,0,0,1,Low
+WK-0027,Logistics & Haulage,Dispatcher,Afternoon,Yes,93,Up to Date,7,3,0,1,0,Low
+WK-0028,Engineering & Maintenance,Maintenance Planner,Night,Yes,94,Up to Date,3,6,0,0,1,Low
+WK-0029,Processing Plant,Plant Operator,Afternoon,Yes,98,Up to Date,2,1,0,0,1,Low
+WK-0030,Surface Mining,Dump Truck Operator,Night,No,73,Up to Date,5,2,0,0,0,Medium
+WK-0031,Logistics & Haulage,Dispatcher,Night,Yes,90,Up to Date,9,1,0,0,1,Medium
+WK-0032,Processing Plant,Crusher Operator,Afternoon,Yes,92,Up to Date,3,4,1,0,0,Low
+WK-0033,Drilling & Blasting,Drill Operator,Afternoon,Yes,94,Up to Date,5,1,0,1,3,Low
+WK-0034,Logistics & Haulage,Haul Truck Driver,Day,Yes,97,Up to Date,1,1,0,0,1,Low
+WK-0035,Surface Mining,Dozer Operator,Day,Yes,96,Expiring Soon,2,8,0,0,0,Low
+WK-0036,Processing Plant,Process Technician,Night,Yes,96,Up to Date,6,5,0,0,1,Low
+WK-0037,Surface Mining,Pit Supervisor,Day,No,84,Up to Date,4,1,0,0,3,Medium
+WK-0038,Surface Mining,Dump Truck Operator,Day,Yes,97,Expired,5,3,1,0,2,Medium
+WK-0039,Engineering & Maintenance,Maintenance Planner,Day,Yes,92,Up to Date,4,5,0,0,0,Low
+WK-0040,Underground Production,Shift Supervisor,Day,Yes,92,Expired,4,6,0,1,0,Medium
+WK-0041,Drilling & Blasting,Blasting Assistant,Afternoon,Yes,100,Up to Date,4,3,0,0,0,Low
+WK-0042,Processing Plant,Process Technician,Night,Yes,86,Up to Date,8,5,1,0,2,High
+WK-0043,Underground Production,Team Leader,Day,Yes,88,Up to Date,4,3,0,0,2,Medium
+WK-0044,Engineering & Maintenance,Boilermaker,Night,No,79,Up to Date,7,6,0,0,0,Medium
+WK-0045,Processing Plant,Crusher Operator,Day,Yes,91,Up to Date,3,6,0,0,1,Low
+WK-0046,Processing Plant,Control Room Operator,Night,Yes,99,Up to Date,6,5,0,1,0,Low
+WK-0047,Surface Mining,Excavator Operator,Night,No,77,Expired,3,2,0,0,2,High
+WK-0048,Drilling & Blasting,Drill Operator,Afternoon,Yes,93,Up to Date,1,5,0,0,1,Low
+WK-0049,Drilling & Blasting,Shift Supervisor,Afternoon,No,71,Expiring Soon,4,2,0,0,1,Medium
+WK-0050,Drilling & Blasting,Drill Operator,Night,No,82,Up to Date,6,3,1,1,0,Medium
+WK-0051,Processing Plant,Process Technician,Day,Yes,96,Up to Date,3,2,0,1,0,Low
+WK-0052,Processing Plant,Control Room Operator,Night,Yes,86,Up to Date,6,3,0,0,0,Medium
+WK-0053,Surface Mining,Pit Supervisor,Night,No,80,Up to Date,4,3,0,1,2,Medium
+WK-0054,Underground Production,Timberman,Night,Yes,87,Up to Date,3,2,0,1,1,Low
+WK-0055,Engineering & Maintenance,Fitter,Night,Yes,98,Up to Date,3,4,0,0,1,Low
+WK-0056,Drilling & Blasting,Drill Operator,Afternoon,Yes,100,Expiring Soon,6,1,0,0,0,Medium
+WK-0057,Surface Mining,Excavator Operator,Afternoon,Yes,100,Up to Date,3,2,0,0,0,Low
+WK-0058,Drilling & Blasting,Drill Operator,Afternoon,Yes,96,Up to Date,4,1,0,0,1,Low
+WK-0059,Underground Production,Shift Supervisor,Day,Yes,96,Up to Date,1,3,0,0,3,Low
+WK-0060,Logistics & Haulage,Loader Operator,Night,Yes,95,Expired,4,3,0,0,1,Medium
+WK-0061,Geology & Survey,Geologist,Day,No,84,Up to Date,4,6,0,0,1,Low
+WK-0062,Underground Production,Team Leader,Day,Yes,85,Up to Date,6,4,1,0,1,Medium
+WK-0063,Surface Mining,Excavator Operator,Night,Yes,100,Up to Date,3,3,1,0,1,Low
+WK-0064,Engineering & Maintenance,Maintenance Planner,Night,Yes,97,Up to Date,3,1,0,0,1,Low
+WK-0065,Surface Mining,Pit Supervisor,Day,Yes,100,Up to Date,4,0,1,0,0,Low
+WK-0066,Processing Plant,Plant Operator,Night,Yes,92,Up to Date,6,2,0,1,0,Low
+WK-0067,Surface Mining,Dump Truck Operator,Night,No,83,Up to Date,4,4,0,0,2,Medium
+WK-0068,Engineering & Maintenance,Artisan Assistant,Night,No,81,Expired,7,4,0,1,4,High
+WK-0069,Geology & Survey,Surveyor,Afternoon,Yes,100,Expiring Soon,1,2,0,0,1,Low
+WK-0070,Logistics & Haulage,Haul Truck Driver,Day,Yes,99,Expiring Soon,2,3,0,0,0,Low
+WK-0071,Processing Plant,Crusher Operator,Day,No,84,Up to Date,4,4,1,0,1,Low
+WK-0072,Underground Production,Rock Drill Operator,Day,Yes,87,Up to Date,2,2,0,0,3,Medium
+WK-0073,Logistics & Haulage,Dispatcher,Day,Yes,89,Up to Date,4,3,0,0,0,Low
+WK-0074,Underground Production,Loco Operator,Day,Yes,100,Expiring Soon,4,2,0,0,2,Medium
+WK-0075,Surface Mining,Dozer Operator,Day,Yes,90,Up to Date,3,3,0,0,1,Low
+WK-0076,Surface Mining,Pit Supervisor,Day,Yes,86,Up to Date,8,1,0,0,0,Medium
+WK-0077,Processing Plant,Process Technician,Afternoon,Yes,100,Up to Date,2,1,0,0,0,Low
+WK-0078,Drilling & Blasting,Drill Operator,Night,Yes,93,Up to Date,5,4,0,0,0,Low
+WK-0079,Underground Production,Rock Drill Operator,Afternoon,Yes,87,Expired,5,9,1,1,2,High
+WK-0080,Underground Production,Timberman,Afternoon,Yes,88,Up to Date,3,2,2,0,1,Medium
+WK-0081,Processing Plant,Crusher Operator,Night,Yes,99,Up to Date,5,3,2,0,0,Low
+WK-0082,Drilling & Blasting,Shift Supervisor,Night,No,78,Up to Date,7,2,0,0,2,High
+WK-0083,Processing Plant,Plant Operator,Day,Yes,91,Up to Date,4,6,0,0,1,Low
+WK-0084,Processing Plant,Plant Operator,Afternoon,Yes,97,Expiring Soon,6,3,0,0,0,Medium
+WK-0085,Logistics & Haulage,Weighbridge Clerk,Night,Yes,88,Expiring Soon,5,5,0,0,1,Medium
+WK-0086,Logistics & Haulage,Weighbridge Clerk,Day,Yes,97,Up to Date,3,2,0,0,0,Low
+WK-0087,Underground Production,Team Leader,Afternoon,No,79,Up to Date,8,3,0,1,2,High
+WK-0088,Logistics & Haulage,Weighbridge Clerk,Night,Yes,87,Up to Date,6,0,0,0,2,Medium
+WK-0089,Engineering & Maintenance,Artisan Assistant,Day,Yes,95,Up to Date,6,4,0,0,2,Medium
+WK-0090,Processing Plant,Plant Operator,Afternoon,Yes,96,Up to Date,3,3,0,1,0,Low
+WK-0091,Processing Plant,Control Room Operator,Night,Yes,95,Expiring Soon,5,2,0,0,0,Low
+WK-0092,Processing Plant,Crusher Operator,Night,No,81,Up to Date,7,4,0,0,3,Medium
+WK-0093,Logistics & Haulage,Weighbridge Clerk,Afternoon,Yes,100,Up to Date,4,3,0,1,0,Low
+WK-0094,Underground Production,Team Leader,Afternoon,Yes,97,Up to Date,2,5,0,0,2,Low
+WK-0095,Processing Plant,Plant Operator,Afternoon,Yes,97,Expiring Soon,3,2,0,0,1,Low
+WK-0096,Engineering & Maintenance,Maintenance Planner,Day,Yes,88,Expiring Soon,4,2,0,0,2,Medium
+WK-0097,Underground Production,Team Leader,Day,Yes,94,Up to Date,7,2,0,0,2,Medium
+WK-0098,Processing Plant,Crusher Operator,Night,Yes,100,Expiring Soon,6,3,0,0,1,Medium
+WK-0099,Surface Mining,Pit Supervisor,Afternoon,Yes,93,Up to Date,3,3,0,0,0,Low
+WK-0100,Engineering & Maintenance,Electrician,Day,Yes,95,Up to Date,4,2,1,0,0,Low
+WK-0101,Underground Production,Team Leader,Day,Yes,96,Up to Date,4,5,1,0,0,Low
+WK-0102,Processing Plant,Crusher Operator,Day,No,80,Up to Date,1,3,0,1,0,Low
+WK-0103,Logistics & Haulage,Haul Truck Driver,Afternoon,Yes,89,Expired,4,4,0,0,0,Medium
+WK-0104,Processing Plant,Control Room Operator,Afternoon,Yes,99,Expiring Soon,4,2,0,0,0,Low
+WK-0105,Surface Mining,General Worker,Day,Yes,89,Up to Date,4,4,1,0,0,Low
+WK-0106,Processing Plant,Process Technician,Day,Yes,93,Up to Date,2,4,0,0,1,Low
+WK-0107,Surface Mining,Pit Supervisor,Night,Yes,90,Up to Date,6,5,0,1,0,Low
+WK-0108,Processing Plant,Control Room Operator,Day,No,80,Up to Date,3,2,0,0,1,Low
+WK-0109,Underground Production,Team Leader,Night,Yes,96,Up to Date,4,3,1,0,2,Low
+WK-0110,Surface Mining,General Worker,Day,No,82,Up to Date,7,4,1,0,1,Medium
+WK-0111,Underground Production,Miner,Afternoon,Yes,96,Up to Date,4,2,0,1,1,Low
+WK-0112,Underground Production,Timberman,Night,Yes,89,Up to Date,3,3,1,0,1,Low
+WK-0113,Processing Plant,Process Technician,Afternoon,Yes,90,Up to Date,6,0,0,0,0,Low
+WK-0114,Underground Production,Rock Drill Operator,Afternoon,Yes,94,Expiring Soon,7,7,1,0,3,Medium
+WK-0115,Drilling & Blasting,Blaster,Day,Yes,97,Up to Date,2,1,0,0,0,Low
+WK-0116,Processing Plant,Process Technician,Night,Yes,97,Up to Date,4,6,1,0,1,Low
+WK-0117,Logistics & Haulage,Weighbridge Clerk,Afternoon,Yes,87,Up to Date,4,2,0,0,1,Low
+WK-0118,Surface Mining,Excavator Operator,Night,Yes,89,Up to Date,5,2,1,0,2,Medium
+WK-0119,Surface Mining,Dozer Operator,Night,No,83,Up to Date,3,4,0,0,0,Low
+WK-0120,Surface Mining,Dozer Operator,Night,No,78,Expiring Soon,3,6,0,1,2,High
+WK-0121,Underground Production,Team Leader,Night,Yes,98,Expired,9,0,1,0,1,High
+WK-0122,Processing Plant,Process Technician,Night,No,81,Up to Date,4,3,0,2,2,Medium
+WK-0123,Engineering & Maintenance,Fitter,Afternoon,Yes,87,Expiring Soon,3,1,0,0,1,Medium
+WK-0124,Drilling & Blasting,Blasting Assistant,Afternoon,Yes,94,Up to Date,6,3,2,0,1,Medium
+WK-0125,Processing Plant,Crusher Operator,Afternoon,No,82,Up to Date,3,2,0,0,0,Low
+WK-0126,Geology & Survey,Geologist,Afternoon,Yes,97,Up to Date,3,2,0,1,0,Low
+WK-0127,Processing Plant,Control Room Operator,Afternoon,Yes,86,Up to Date,2,1,0,0,0,Low
+WK-0128,Engineering & Maintenance,Artisan Assistant,Afternoon,No,84,Up to Date,5,1,0,0,0,Low
+WK-0129,Logistics & Haulage,Haul Truck Driver,Day,Yes,85,Up to Date,4,5,1,0,2,Medium
+WK-0130,Underground Production,Miner,Day,Yes,86,Up to Date,6,4,0,0,3,Medium
+WK-0131,Processing Plant,Crusher Operator,Day,Yes,95,Up to Date,3,4,0,0,0,Low
+WK-0132,Engineering & Maintenance,Maintenance Planner,Day,Yes,100,Up to Date,6,2,0,0,1,Low
+WK-0133,Logistics & Haulage,Loader Operator,Afternoon,Yes,95,Up to Date,5,5,0,0,2,Low
+WK-0134,Surface Mining,Dozer Operator,Night,Yes,94,Up to Date,4,3,0,0,0,Low
+WK-0135,Processing Plant,Control Room Operator,Day,Yes,88,Up to Date,5,4,1,1,1,Low
+WK-0136,Processing Plant,Process Technician,Night,Yes,88,Up to Date,6,6,0,0,3,Medium
+WK-0137,Surface Mining,Excavator Operator,Day,Yes,94,Up to Date,4,7,1,0,0,Low
+WK-0138,Underground Production,Timberman,Afternoon,Yes,92,Expiring Soon,3,2,0,0,2,Medium
+WK-0139,Surface Mining,General Worker,Day,Yes,94,Expired,4,3,0,1,0,Medium
+WK-0140,Geology & Survey,Geotechnical Technician,Afternoon,No,83,Up to Date,4,6,0,1,0,Low
+WK-0141,Underground Production,Team Leader,Afternoon,Yes,100,Up to Date,6,2,1,0,0,Low
+WK-0142,Underground Production,Timberman,Night,No,79,Up to Date,8,5,0,0,3,High
+WK-0143,Surface Mining,General Worker,Day,Yes,92,Up to Date,5,2,0,0,1,Low
+WK-0144,Underground Production,Miner,Afternoon,Yes,99,Up to Date,6,3,1,0,0,Low
+WK-0145,Surface Mining,General Worker,Night,No,84,Up to Date,7,4,0,0,2,Medium
+WK-0146,Logistics & Haulage,Weighbridge Clerk,Afternoon,Yes,98,Up to Date,6,5,0,0,0,Low
+WK-0147,Surface Mining,General Worker,Day,No,81,Up to Date,3,2,1,0,0,Low
+WK-0148,Processing Plant,Process Technician,Night,No,84,Up to Date,3,5,0,0,0,Low
+WK-0149,Underground Production,Team Leader,Day,No,74,Up to Date,4,5,1,1,1,Medium
+WK-0150,Processing Plant,Crusher Operator,Day,Yes,100,Up to Date,7,5,0,0,1,Low
+WK-0151,Underground Production,Shift Supervisor,Day,No,83,Up to Date,2,3,0,1,1,Low
+WK-0152,Engineering & Maintenance,Fitter,Night,No,84,Up to Date,4,2,1,0,0,Low
+WK-0153,Drilling & Blasting,Drill Operator,Night,Yes,94,Up to Date,5,1,1,0,1,Low
+WK-0154,Underground Production,Team Leader,Night,Yes,92,Up to Date,4,3,0,0,2,Low
+WK-0155,Engineering & Maintenance,Electrician,Night,Yes,98,Up to Date,7,4,0,0,1,Low
+WK-0156,Processing Plant,Plant Operator,Night,Yes,95,Up to Date,5,0,0,0,2,Low
+WK-0157,Drilling & Blasting,Drill Operator,Night,Yes,95,Up to Date,7,3,1,1,0,Low
+WK-0158,Underground Production,Shift Supervisor,Afternoon,Yes,89,Up to Date,5,3,0,0,1,Low
+WK-0159,Engineering & Maintenance,Boilermaker,Afternoon,Yes,92,Up to Date,5,2,0,0,1,Low
+WK-0160,Surface Mining,General Worker,Night,Yes,95,Up to Date,3,2,0,0,2,Low
+WK-0161,Underground Production,Miner,Afternoon,Yes,99,Up to Date,3,5,1,1,1,Low
+WK-0162,Geology & Survey,Geologist,Day,Yes,100,Up to Date,1,5,0,0,0,Low
+WK-0163,Underground Production,Shift Supervisor,Night,No,83,Expiring Soon,4,1,0,0,1,Medium
+WK-0164,Underground Production,Shift Supervisor,Day,No,84,Up to Date,3,4,0,0,2,Medium
+WK-0165,Drilling & Blasting,Drill Operator,Afternoon,No,80,Up to Date,5,3,0,0,1,Low
+WK-0166,Underground Production,Team Leader,Night,Yes,86,Up to Date,3,0,1,0,1,Low
+WK-0167,Surface Mining,Dozer Operator,Afternoon,Yes,92,Up to Date,7,2,0,0,1,Low
+WK-0168,Processing Plant,Control Room Operator,Afternoon,No,83,Up to Date,6,3,0,0,2,Medium
+WK-0169,Geology & Survey,Geotechnical Technician,Afternoon,Yes,91,Up to Date,2,6,0,0,2,Low
+WK-0170,Logistics & Haulage,Haul Truck Driver,Day,Yes,95,Up to Date,1,3,0,0,3,Low
+WK-0171,Underground Production,Miner,Afternoon,Yes,100,Up to Date,1,4,0,0,1,Low
+WK-0172,Logistics & Haulage,Haul Truck Driver,Afternoon,Yes,85,Up to Date,5,4,0,0,1,Low
+WK-0173,Underground Production,Loco Operator,Afternoon,Yes,97,Up to Date,2,5,0,0,1,Low
+WK-0174,Engineering & Maintenance,Boilermaker,Night,No,79,Up to Date,5,4,0,1,1,Medium
+WK-0175,Surface Mining,Dozer Operator,Night,No,84,Expiring Soon,6,5,0,0,1,Medium
+WK-0176,Engineering & Maintenance,Electrician,Afternoon,Yes,93,Expired,5,3,0,0,3,Medium
+WK-0177,Engineering & Maintenance,Artisan Assistant,Afternoon,Yes,87,Up to Date,6,2,1,0,1,Medium
+WK-0178,Logistics & Haulage,Weighbridge Clerk,Night,No,80,Up to Date,3,3,0,0,2,Medium
+WK-0179,Geology & Survey,Sampler,Afternoon,Yes,95,Up to Date,5,8,0,1,0,Low
+WK-0180,Surface Mining,General Worker,Day,Yes,85,Up to Date,5,5,0,0,1,Low
+WK-0181,Processing Plant,Process Technician,Night,Yes,90,Expiring Soon,7,4,0,0,1,Medium
+WK-0182,Engineering & Maintenance,Fitter,Night,Yes,89,Up to Date,7,3,0,0,1,Medium
+WK-0183,Underground Production,Timberman,Night,Yes,94,Up to Date,3,2,0,0,0,Low
+WK-0184,Processing Plant,Control Room Operator,Day,Yes,99,Up to Date,1,1,0,1,0,Low
+WK-0185,Surface Mining,Dozer Operator,Afternoon,Yes,94,Up to Date,5,8,0,0,0,Low
+WK-0186,Underground Production,Team Leader,Day,Yes,89,Expiring Soon,7,2,0,0,3,High
+WK-0187,Processing Plant,Crusher Operator,Afternoon,Yes,100,Up to Date,3,3,0,0,0,Low
+WK-0188,Drilling & Blasting,Blasting Assistant,Afternoon,Yes,92,Up to Date,3,1,0,0,0,Low
+WK-0189,Processing Plant,Plant Operator,Day,Yes,85,Up to Date,4,2,0,0,0,Low
+WK-0190,Processing Plant,Crusher Operator,Night,Yes,91,Up to Date,7,2,0,0,1,Low
+WK-0191,Drilling & Blasting,Drill Operator,Afternoon,Yes,86,Up to Date,6,4,0,2,0,Medium
+WK-0192,Logistics & Haulage,Loader Operator,Day,No,69,Expiring Soon,2,3,1,0,0,Medium
+WK-0193,Underground Production,Shift Supervisor,Night,No,82,Up to Date,5,7,3,1,1,Medium
+WK-0194,Surface Mining,Pit Supervisor,Day,Yes,89,Up to Date,3,4,0,0,0,Low
+WK-0195,Surface Mining,Dump Truck Operator,Day,Yes,89,Expired,5,7,0,1,0,Medium
+WK-0196,Engineering & Maintenance,Boilermaker,Night,No,77,Up to Date,7,1,1,0,0,Medium
+WK-0197,Processing Plant,Process Technician,Afternoon,Yes,90,Up to Date,3,2,0,0,1,Low
+WK-0198,Underground Production,Shift Supervisor,Night,Yes,93,Up to Date,4,5,0,1,1,Low
+WK-0199,Engineering & Maintenance,Electrician,Day,No,83,Expiring Soon,4,6,0,0,0,Medium
+WK-0200,Engineering & Maintenance,Electrician,Day,Yes,95,Up to Date,4,3,0,0,0,Low
+WK-0201,Engineering & Maintenance,Fitter,Day,No,76,Up to Date,3,3,0,0,0,Medium
+WK-0202,Underground Production,Timberman,Afternoon,Yes,97,Expired,3,1,0,0,4,Medium
+WK-0203,Underground Production,Team Leader,Night,Yes,85,Up to Date,6,3,0,0,3,Medium
+WK-0204,Logistics & Haulage,Loader Operator,Night,No,76,Up to Date,5,1,0,0,2,Medium
+WK-0205,Logistics & Haulage,Loader Operator,Night,Yes,95,Expired,5,1,0,1,2,Medium
+WK-0206,Underground Production,Miner,Day,Yes,96,Expiring Soon,3,4,0,1,0,Low
+WK-0207,Processing Plant,Plant Operator,Night,Yes,97,Up to Date,6,5,1,1,1,Low
+WK-0208,Surface Mining,Dozer Operator,Night,Yes,92,Up to Date,4,1,0,0,3,Low
+WK-0209,Surface Mining,Dozer Operator,Day,Yes,95,Up to Date,4,3,0,0,2,Low
+WK-0210,Underground Production,Team Leader,Day,Yes,89,Expiring Soon,4,6,0,0,1,Medium
+WK-0211,Surface Mining,Pit Supervisor,Day,Yes,96,Up to Date,3,3,0,0,1,Low
+WK-0212,Surface Mining,Dump Truck Operator,Night,Yes,89,Up to Date,4,9,0,1,1,Low
+WK-0213,Logistics & Haulage,Loader Operator,Night,No,81,Expired,5,3,0,1,0,Medium
+WK-0214,Processing Plant,Crusher Operator,Day,Yes,91,Up to Date,3,5,0,0,0,Low
+WK-0215,Underground Production,Rock Drill Operator,Night,No,79,Up to Date,7,4,1,2,3,High
+WK-0216,Drilling & Blasting,Drill Operator,Day,Yes,90,Expired,2,0,1,0,1,Medium
+WK-0217,Drilling & Blasting,Shift Supervisor,Afternoon,Yes,94,Up to Date,6,1,1,0,2,Medium
+WK-0218,Processing Plant,Crusher Operator,Day,Yes,93,Up to Date,6,4,0,1,0,Low
+WK-0219,Drilling & Blasting,Drill Operator,Night,Yes,92,Up to Date,6,5,1,1,2,Medium
+WK-0220,Drilling & Blasting,Blaster,Day,Yes,88,Expired,5,4,0,0,0,Medium
+WK-0221,Surface Mining,Dozer Operator,Afternoon,Yes,93,Expired,4,6,1,0,1,Medium
+WK-0222,Processing Plant,Control Room Operator,Day,Yes,93,Up to Date,5,3,0,0,0,Low
+WK-0223,Geology & Survey,Geotechnical Technician,Afternoon,Yes,100,Up to Date,5,2,0,0,3,Low
+WK-0224,Processing Plant,Control Room Operator,Night,No,79,Up to Date,2,3,0,0,0,Medium
+WK-0225,Logistics & Haulage,Loader Operator,Day,Yes,100,Up to Date,3,5,0,0,1,Low
+WK-0226,Underground Production,Team Leader,Night,No,84,Up to Date,3,3,2,0,1,Medium
+WK-0227,Underground Production,Loco Operator,Afternoon,Yes,90,Up to Date,1,1,0,0,3,Low
+WK-0228,Logistics & Haulage,Weighbridge Clerk,Day,Yes,92,Expiring Soon,4,8,0,0,2,Medium
+WK-0229,Processing Plant,Control Room Operator,Day,Yes,97,Up to Date,5,4,0,0,1,Low
+WK-0230,Drilling & Blasting,Blaster,Day,Yes,90,Up to Date,3,2,0,0,0,Low
+WK-0231,Surface Mining,Excavator Operator,Day,Yes,94,Expiring Soon,5,5,0,1,1,Low
+WK-0232,Surface Mining,Dozer Operator,Night,Yes,100,Up to Date,6,1,1,0,3,Medium
+WK-0233,Processing Plant,Control Room Operator,Day,Yes,100,Up to Date,4,4,0,0,1,Low
+WK-0234,Surface Mining,General Worker,Afternoon,Yes,96,Up to Date,3,0,0,2,2,Low
+WK-0235,Drilling & Blasting,Shift Supervisor,Afternoon,Yes,96,Up to Date,6,3,0,0,0,Low
+WK-0236,Engineering & Maintenance,Artisan Assistant,Afternoon,Yes,92,Up to Date,8,4,1,0,2,Medium
+WK-0237,Logistics & Haulage,Weighbridge Clerk,Afternoon,Yes,100,Expiring Soon,1,1,0,1,1,Low
+WK-0238,Geology & Survey,Geologist,Day,Yes,92,Up to Date,5,4,0,0,0,Low
+WK-0239,Drilling & Blasting,Blaster,Day,Yes,95,Up to Date,2,6,0,0,0,Low
+WK-0240,Underground Production,Team Leader,Afternoon,No,84,Up to Date,6,3,0,1,1,Medium
+WK-0241,Underground Production,Rock Drill Operator,Night,No,68,Expired,7,1,1,0,5,Critical
+WK-0242,Drilling & Blasting,Shift Supervisor,Afternoon,Yes,100,Up to Date,4,1,0,1,0,Low
+WK-0243,Underground Production,Timberman,Day,Yes,100,Expired,3,4,0,0,0,Medium
+WK-0244,Underground Production,Rock Drill Operator,Night,Yes,97,Up to Date,5,2,0,0,0,Low
+WK-0245,Underground Production,Shift Supervisor,Day,Yes,85,Expired,4,6,1,0,2,High
+WK-0246,Geology & Survey,Surveyor,Afternoon,No,80,Up to Date,4,1,0,0,1,Low
+WK-0247,Underground Production,Shift Supervisor,Night,Yes,88,Up to Date,7,2,1,0,3,Medium
+WK-0248,Underground Production,Team Leader,Day,Yes,93,Up to Date,1,6,0,0,1,Low
+WK-0249,Logistics & Haulage,Loader Operator,Day,Yes,95,Expired,3,0,0,0,2,Medium
+WK-0250,Processing Plant,Control Room Operator,Day,Yes,93,Up to Date,5,3,1,0,0,Low
+WK-0251,Engineering & Maintenance,Maintenance Planner,Afternoon,Yes,100,Up to Date,4,1,0,0,1,Low
+WK-0252,Surface Mining,Excavator Operator,Night,Yes,92,Up to Date,5,5,1,1,0,Low
+WK-0253,Logistics & Haulage,Dispatcher,Afternoon,Yes,92,Expiring Soon,4,3,1,0,1,Low
+WK-0254,Geology & Survey,Surveyor,Day,Yes,100,Up to Date,6,4,0,0,0,Low
+WK-0255,Processing Plant,Process Technician,Day,Yes,87,Up to Date,5,5,0,0,0,Low
+WK-0256,Geology & Survey,Geotechnical Technician,Afternoon,Yes,96,Up to Date,2,1,0,0,0,Low
+WK-0257,Drilling & Blasting,Drill Operator,Afternoon,Yes,86,Up to Date,2,2,0,1,4,Medium
+WK-0258,Drilling & Blasting,Blaster,Day,Yes,85,Up to Date,3,4,1,0,2,Medium
+WK-0259,Engineering & Maintenance,Maintenance Planner,Afternoon,Yes,100,Up to Date,4,3,0,2,0,Low
+WK-0260,Processing Plant,Plant Operator,Afternoon,Yes,100,Up to Date,6,4,0,0,0,Low
+WK-0261,Underground Production,Timberman,Day,Yes,97,Up to Date,4,4,1,0,1,Low
+WK-0262,Drilling & Blasting,Drill Operator,Night,Yes,98,Up to Date,8,2,0,0,2,Medium
+WK-0263,Underground Production,Miner,Day,Yes,95,Up to Date,7,1,2,0,0,Medium
+WK-0264,Logistics & Haulage,Loader Operator,Day,Yes,100,Expiring Soon,2,3,0,0,0,Low
+WK-0265,Processing Plant,Control Room Operator,Afternoon,Yes,86,Up to Date,5,3,0,0,1,Low
+WK-0266,Underground Production,Timberman,Night,Yes,88,Expiring Soon,7,3,1,1,1,Medium
+WK-0267,Logistics & Haulage,Haul Truck Driver,Afternoon,Yes,93,Up to Date,5,5,0,1,0,Low
+WK-0268,Geology & Survey,Geologist,Afternoon,Yes,85,Up to Date,5,4,2,0,0,Medium
+WK-0269,Engineering & Maintenance,Artisan Assistant,Day,Yes,87,Up to Date,3,5,0,1,1,Low
+WK-0270,Drilling & Blasting,Blasting Assistant,Afternoon,No,81,Up to Date,3,2,0,0,1,Low
+WK-0271,Processing Plant,Control Room Operator,Afternoon,Yes,98,Up to Date,5,4,0,1,0,Low
+WK-0272,Underground Production,Rock Drill Operator,Day,Yes,89,Expiring Soon,6,5,0,0,1,Medium
+WK-0273,Underground Production,Loco Operator,Night,Yes,92,Up to Date,4,2,1,1,1,Low
+WK-0274,Surface Mining,Dump Truck Operator,Day,Yes,97,Expired,4,0,0,0,1,Medium
+WK-0275,Surface Mining,General Worker,Afternoon,Yes,91,Up to Date,8,0,0,0,0,Medium
+WK-0276,Engineering & Maintenance,Fitter,Afternoon,Yes,93,Up to Date,4,3,1,0,0,Low
+WK-0277,Underground Production,Timberman,Afternoon,Yes,94,Up to Date,5,2,1,0,4,Low
+WK-0278,Underground Production,Rock Drill Operator,Night,Yes,93,Expiring Soon,7,5,0,0,1,Medium
+WK-0279,Processing Plant,Plant Operator,Night,Yes,100,Expiring Soon,6,2,0,0,1,Medium
+WK-0280,Logistics & Haulage,Weighbridge Clerk,Day,No,81,Up to Date,4,7,0,0,0,Low
+WK-0281,Logistics & Haulage,Weighbridge Clerk,Day,Yes,90,Up to Date,4,2,0,0,2,Low
+WK-0282,Engineering & Maintenance,Fitter,Day,No,83,Up to Date,7,4,0,0,2,Medium
+WK-0283,Geology & Survey,Sampler,Day,Yes,100,Up to Date,2,2,0,0,0,Low
+WK-0284,Drilling & Blasting,Drill Operator,Afternoon,No,76,Up to Date,2,4,0,0,2,Medium
+WK-0285,Engineering & Maintenance,Fitter,Afternoon,Yes,94,Up to Date,6,7,0,0,2,Medium
+WK-0286,Surface Mining,Dump Truck Operator,Afternoon,Yes,89,Up to Date,7,3,0,0,2,Medium
+WK-0287,Surface Mining,Dump Truck Operator,Afternoon,Yes,88,Up to Date,3,1,0,0,1,Low
+WK-0288,Logistics & Haulage,Weighbridge Clerk,Day,Yes,95,Expired,6,1,1,0,1,Medium
+WK-0289,Drilling & Blasting,Blaster,Night,Yes,92,Up to Date,6,2,1,0,1,Low
+WK-0290,Engineering & Maintenance,Boilermaker,Afternoon,Yes,85,Up to Date,4,5,1,0,1,Low
+WK-0291,Drilling & Blasting,Shift Supervisor,Night,Yes,91,Up to Date,6,1,0,0,4,Medium
+WK-0292,Underground Production,Miner,Night,Yes,92,Up to Date,9,0,1,0,1,Medium
+WK-0293,Underground Production,Shift Supervisor,Afternoon,Yes,87,Up to Date,6,0,1,2,0,Medium
+WK-0294,Drilling & Blasting,Drill Operator,Afternoon,No,79,Up to Date,6,5,2,1,1,High
+WK-0295,Engineering & Maintenance,Fitter,Night,Yes,96,Up to Date,6,4,0,0,0,Low
+WK-0296,Engineering & Maintenance,Fitter,Afternoon,Yes,98,Expiring Soon,3,2,0,1,0,Low
+WK-0297,Surface Mining,Dozer Operator,Night,Yes,94,Up to Date,5,3,0,0,1,Low
+WK-0298,Underground Production,Shift Supervisor,Day,Yes,88,Up to Date,4,1,1,0,0,Low
+WK-0299,Drilling & Blasting,Shift Supervisor,Day,Yes,100,Up to Date,2,2,0,1,0,Low
+WK-0300,Underground Production,Miner,Day,Yes,100,Up to Date,5,3,0,0,1,Low
+WK-0301,Surface Mining,Pit Supervisor,Night,Yes,91,Expiring Soon,8,5,0,0,0,Medium
+WK-0302,Processing Plant,Process Technician,Day,Yes,97,Up to Date,4,2,0,0,1,Low
+WK-0303,Surface Mining,General Worker,Night,No,83,Up to Date,4,6,0,0,0,Low
+WK-0304,Drilling & Blasting,Blasting Assistant,Day,No,84,Up to Date,3,3,0,0,1,Low
+WK-0305,Underground Production,Loco Operator,Night,Yes,100,Up to Date,8,5,0,0,0,Medium
+WK-0306,Underground Production,Rock Drill Operator,Day,Yes,100,Up to Date,3,5,0,0,1,Low
+WK-0307,Logistics & Haulage,Haul Truck Driver,Day,Yes,88,Expired,2,2,1,1,1,Medium
+WK-0308,Drilling & Blasting,Shift Supervisor,Night,No,82,Expiring Soon,3,4,0,0,3,Medium
+WK-0309,Logistics & Haulage,Dispatcher,Day,No,82,Up to Date,3,5,0,0,1,Low
+WK-0310,Logistics & Haulage,Loader Operator,Day,Yes,85,Up to Date,6,4,1,3,2,High
+WK-0311,Underground Production,Loco Operator,Day,Yes,93,Up to Date,6,6,1,2,2,Medium
+WK-0312,Surface Mining,Dump Truck Operator,Day,No,83,Expiring Soon,5,3,1,0,1,Medium
+WK-0313,Drilling & Blasting,Shift Supervisor,Night,No,82,Up to Date,4,2,0,0,3,Medium
+WK-0314,Underground Production,Loco Operator,Afternoon,Yes,100,Up to Date,6,8,1,0,0,Low
+WK-0315,Underground Production,Rock Drill Operator,Night,Yes,88,Up to Date,5,2,0,0,2,Medium
+WK-0316,Logistics & Haulage,Dispatcher,Day,No,83,Up to Date,5,4,1,1,3,Medium
+WK-0317,Engineering & Maintenance,Electrician,Afternoon,No,83,Up to Date,8,2,0,0,1,Medium
+WK-0318,Surface Mining,Dozer Operator,Night,Yes,98,Up to Date,5,3,0,0,0,Low
+WK-0319,Engineering & Maintenance,Artisan Assistant,Night,No,81,Up to Date,3,5,0,0,1,Low
+WK-0320,Drilling & Blasting,Shift Supervisor,Afternoon,Yes,89,Up to Date,8,3,0,0,1,Medium
+WK-0321,Engineering & Maintenance,Boilermaker,Afternoon,Yes,100,Up to Date,4,2,0,0,0,Low
+WK-0322,Surface Mining,Pit Supervisor,Day,Yes,97,Up to Date,4,5,0,0,1,Low
+WK-0323,Drilling & Blasting,Blasting Assistant,Day,Yes,93,Up to Date,1,2,0,0,0,Low
+WK-0324,Logistics & Haulage,Haul Truck Driver,Afternoon,Yes,92,Up to Date,6,4,0,1,2,Medium
+WK-0325,Engineering & Maintenance,Maintenance Planner,Day,Yes,85,Up to Date,6,3,0,0,2,Medium
+WK-0326,Surface Mining,General Worker,Day,Yes,87,Up to Date,5,5,0,0,0,Low
+WK-0327,Logistics & Haulage,Dispatcher,Afternoon,Yes,86,Up to Date,6,3,0,0,4,Medium
+WK-0328,Surface Mining,Excavator Operator,Day,No,70,Up to Date,3,3,0,0,0,Medium
+WK-0329,Processing Plant,Control Room Operator,Night,Yes,86,Up to Date,8,4,1,1,1,Medium
+WK-0330,Engineering & Maintenance,Electrician,Day,Yes,92,Up to Date,6,3,0,0,1,Low
+WK-0331,Surface Mining,General Worker,Afternoon,Yes,92,Up to Date,8,2,0,0,0,Medium
+WK-0332,Engineering & Maintenance,Fitter,Afternoon,Yes,91,Expired,2,6,0,1,1,Medium
+WK-0333,Drilling & Blasting,Blaster,Afternoon,Yes,92,Up to Date,2,1,0,0,0,Low
+WK-0334,Geology & Survey,Surveyor,Day,Yes,94,Up to Date,6,5,0,0,0,Low
+WK-0335,Logistics & Haulage,Weighbridge Clerk,Day,Yes,100,Expiring Soon,5,0,0,0,1,Low
+WK-0336,Logistics & Haulage,Weighbridge Clerk,Afternoon,Yes,91,Up to Date,3,4,2,0,0,Low
+WK-0337,Logistics & Haulage,Dispatcher,Night,Yes,93,Expiring Soon,6,2,1,0,1,Medium
+WK-0338,Underground Production,Loco Operator,Afternoon,Yes,88,Expiring Soon,6,3,0,0,0,Medium
+WK-0339,Processing Plant,Control Room Operator,Day,Yes,95,Up to Date,6,5,0,1,1,Low
+WK-0340,Engineering & Maintenance,Artisan Assistant,Day,Yes,95,Expired,5,2,0,1,1,Medium
+WK-0341,Drilling & Blasting,Blasting Assistant,Day,Yes,89,Up to Date,4,5,1,0,1,Low
+WK-0342,Drilling & Blasting,Blaster,Day,No,77,Up to Date,5,5,1,0,0,Medium
+WK-0343,Underground Production,Team Leader,Day,No,82,Expired,4,1,3,0,2,High
+WK-0344,Underground Production,Team Leader,Night,Yes,93,Up to Date,9,1,1,1,0,Medium
+WK-0345,Engineering & Maintenance,Boilermaker,Day,Yes,92,Expired,3,2,0,0,0,Medium
+WK-0346,Underground Production,Loco Operator,Afternoon,Yes,90,Up to Date,5,2,0,0,0,Low
+WK-0347,Engineering & Maintenance,Fitter,Day,Yes,87,Up to Date,4,7,0,0,0,Low
+WK-0348,Underground Production,Shift Supervisor,Day,Yes,93,Expiring Soon,7,2,0,0,0,Medium
+WK-0349,Surface Mining,Excavator Operator,Afternoon,Yes,97,Up to Date,4,1,0,0,2,Low
+WK-0350,Underground Production,Loco Operator,Day,Yes,100,Up to Date,6,2,0,1,2,Medium
+WK-0351,Processing Plant,Control Room Operator,Day,Yes,92,Up to Date,4,7,0,0,0,Low
+WK-0352,Surface Mining,Dump Truck Operator,Afternoon,Yes,91,Up to Date,4,5,0,0,1,Low
+WK-0353,Drilling & Blasting,Blaster,Night,Yes,90,Expiring Soon,2,5,0,0,1,Low
+WK-0354,Surface Mining,Dozer Operator,Day,Yes,100,Expiring Soon,4,5,0,0,0,Low
+WK-0355,Drilling & Blasting,Drill Operator,Day,Yes,100,Up to Date,7,3,0,0,0,Low
+WK-0356,Processing Plant,Process Technician,Night,Yes,94,Up to Date,4,4,1,0,0,Low
+WK-0357,Underground Production,Miner,Afternoon,No,81,Expiring Soon,1,5,1,0,1,Medium
+WK-0358,Engineering & Maintenance,Fitter,Day,Yes,93,Up to Date,5,4,0,0,1,Low
+WK-0359,Engineering & Maintenance,Artisan Assistant,Day,No,84,Up to Date,2,4,0,0,0,Low
+WK-0360,Logistics & Haulage,Haul Truck Driver,Night,No,79,Up to Date,2,6,0,0,0,Medium
+WK-0361,Surface Mining,Dozer Operator,Afternoon,Yes,100,Expired,4,4,0,0,2,Medium
+WK-0362,Logistics & Haulage,Haul Truck Driver,Afternoon,Yes,87,Up to Date,2,1,0,0,0,Low
+WK-0363,Underground Production,Loco Operator,Day,Yes,87,Up to Date,6,4,0,0,2,Medium
+WK-0364,Geology & Survey,Geotechnical Technician,Night,Yes,100,Up to Date,6,4,0,0,1,Low
+WK-0365,Underground Production,Miner,Day,Yes,93,Up to Date,5,7,1,0,0,Low
+WK-0366,Surface Mining,Dozer Operator,Day,No,84,Up to Date,3,1,1,0,1,Low
+WK-0367,Underground Production,Shift Supervisor,Night,Yes,90,Up to Date,5,3,0,1,2,Low
+WK-0368,Engineering & Maintenance,Electrician,Night,No,79,Up to Date,4,3,1,0,1,Medium
+WK-0369,Drilling & Blasting,Blasting Assistant,Day,No,84,Expired,5,3,2,0,3,High
+WK-0370,Geology & Survey,Surveyor,Afternoon,Yes,94,Up to Date,1,1,1,0,1,Low
+WK-0371,Underground Production,Rock Drill Operator,Day,No,72,Up to Date,4,3,0,0,3,Medium
+WK-0372,Logistics & Haulage,Haul Truck Driver,Night,Yes,92,Up to Date,7,1,0,0,1,Low
+WK-0373,Surface Mining,Dozer Operator,Day,Yes,95,Up to Date,7,5,0,0,2,Medium
+WK-0374,Underground Production,Shift Supervisor,Day,Yes,99,Up to Date,6,4,0,0,1,Low
+WK-0375,Processing Plant,Control Room Operator,Afternoon,Yes,90,Up to Date,5,5,0,0,0,Low
+WK-0376,Underground Production,Team Leader,Night,Yes,93,Up to Date,2,3,2,0,2,Medium
+WK-0377,Drilling & Blasting,Shift Supervisor,Afternoon,No,83,Expiring Soon,5,2,2,0,1,Medium
+WK-0378,Drilling & Blasting,Drill Operator,Afternoon,No,83,Up to Date,1,4,0,0,1,Low
+WK-0379,Underground Production,Team Leader,Day,Yes,94,Up to Date,2,4,0,1,2,Low
+WK-0380,Drilling & Blasting,Shift Supervisor,Day,Yes,91,Up to Date,4,3,0,0,0,Low
+WK-0381,Surface Mining,Excavator Operator,Night,Yes,90,Up to Date,5,1,0,0,0,Low
+WK-0382,Underground Production,Timberman,Day,Yes,100,Up to Date,6,1,1,0,0,Low
+WK-0383,Logistics & Haulage,Haul Truck Driver,Night,Yes,85,Up to Date,5,4,0,1,1,Low
+WK-0384,Processing Plant,Plant Operator,Night,Yes,93,Up to Date,3,2,1,0,0,Low
+WK-0385,Underground Production,Timberman,Afternoon,Yes,96,Expiring Soon,4,4,0,0,2,Medium
+WK-0386,Engineering & Maintenance,Artisan Assistant,Day,Yes,94,Expired,3,7,1,0,2,Medium
+WK-0387,Surface Mining,Dump Truck Operator,Night,Yes,93,Expiring Soon,7,4,2,0,1,Medium
+WK-0388,Processing Plant,Crusher Operator,Night,No,76,Expiring Soon,3,4,1,0,1,Medium
+WK-0389,Surface Mining,General Worker,Afternoon,Yes,88,Up to Date,3,4,0,0,1,Low
+WK-0390,Processing Plant,Crusher Operator,Day,Yes,100,Up to Date,6,2,0,0,0,Low
+WK-0391,Processing Plant,Plant Operator,Afternoon,Yes,91,Expiring Soon,3,6,0,0,2,Medium
+WK-0392,Surface Mining,Pit Supervisor,Night,Yes,95,Up to Date,6,4,0,0,0,Low
+WK-0393,Engineering & Maintenance,Boilermaker,Day,Yes,97,Up to Date,4,5,0,0,1,Low
+WK-0394,Processing Plant,Plant Operator,Day,No,69,Expired,3,1,0,1,1,High
+WK-0395,Processing Plant,Process Technician,Day,No,82,Expired,1,3,0,0,1,Medium
+WK-0396,Underground Production,Loco Operator,Night,Yes,85,Up to Date,5,3,0,0,0,Low
+WK-0397,Underground Production,Loco Operator,Day,Yes,87,Up to Date,3,3,0,0,1,Low
+WK-0398,Surface Mining,General Worker,Afternoon,Yes,89,Up to Date,5,4,0,1,0,Low
+WK-0399,Underground Production,Rock Drill Operator,Afternoon,Yes,89,Up to Date,2,4,0,0,0,Low
+WK-0400,Underground Production,Miner,Afternoon,Yes,86,Up to Date,5,2,0,2,1,Low

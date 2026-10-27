@@ -1,0 +1,61 @@
+Equipment_ID,Equipment_Type,Manufacturer,Department,Location,Power_Source,Commission_Date,Total_Operating_Hours,Temperature_C,Vibration_mm_s,Fuel_Consumption_L_hr,Brake_Status,Tyre_Status,Engine_Status,Maintenance_Status,Maintenance_Interval_Days,Last_Maintenance_Date,Next_Maintenance_Due,Operating_Time_90d_h,Downtime_90d_h,Availability_Pct,Alert_Count_30d,Critical_Alert_Count_30d
+TRK-001,Haul Truck,Liebherr,Logistics & Haulage,Pit Ramp,Diesel,2025-01-22,11389,58.7,1.8,122.4,Good,Good,Normal,Overdue,90,2026-06-27,2026-09-22,1994.4,165.6,92.3,0,0
+TRK-002,Haul Truck,Liebherr,Logistics & Haulage,Waste Dump,Diesel,2025-01-16,9719,59.7,2.8,94.9,Good,Good,Normal,Overdue,90,2026-05-30,2026-08-28,1949.7,210.3,90.3,0,0
+TRK-003,Haul Truck,Liebherr,Logistics & Haulage,Pit Ramp,Diesel,2022-06-20,19885,61.4,2.4,103.0,Good,Replace,Normal,Up to Date,90,2026-07-18,2026-10-19,2001.1,158.9,92.6,0,0
+TRK-004,Haul Truck,Hitachi,Logistics & Haulage,Pit Ramp,Diesel,2017-02-14,48947,63.9,2.6,109.3,Good,Good,Normal,Up to Date,90,2026-08-30,2026-12-02,1988.7,171.3,92.1,0,0
+TRK-005,Haul Truck,Liebherr,Logistics & Haulage,Waste Dump,Diesel,2021-11-07,25948,64.9,2.1,129.8,Worn,Replace,Normal,Up to Date,90,2026-07-19,2026-10-18,2010.4,149.6,93.1,0,0
+TRK-006,Haul Truck,Komatsu,Logistics & Haulage,Waste Dump,Diesel,2021-05-06,24622,73.5,2.1,126.0,Good,Good,Normal,Due,90,2026-07-03,2026-10-03,1989.6,170.4,92.1,0,0
+TRK-007,Haul Truck,Caterpillar,Logistics & Haulage,Waste Dump,Diesel,2016-12-16,44705,63.4,3.3,106.8,Good,Good,Normal,Up to Date,90,2026-09-12,2026-12-12,1961.3,198.7,90.8,0,0
+TRK-008,Haul Truck,Komatsu,Logistics & Haulage,Pit Ramp,Diesel,2019-07-04,35488,68.5,2.5,88.2,Good,Good,Normal,Up to Date,90,2026-09-16,2026-12-08,1996.6,163.4,92.4,0,0
+TRK-009,Haul Truck,Komatsu,Logistics & Haulage,Main Haul Road,Diesel,2018-12-22,38065,88.3,3.8,131.1,Worn,Replace,Normal,Overdue,90,2026-06-22,2026-09-23,1598.6,561.4,74.0,30,1
+TRK-010,Haul Truck,Hitachi,Logistics & Haulage,Main Haul Road,Diesel,2020-07-15,36771,77.8,5.1,94.9,Good,Good,Normal,Up to Date,90,2026-07-27,2026-10-25,1816.8,343.2,84.1,22,0
+TRK-011,Haul Truck,Hitachi,Logistics & Haulage,Waste Dump,Diesel,2025-02-19,10559,62.7,2.0,130.7,Worn,Good,Normal,Due,90,2026-07-01,2026-10-01,2000.6,159.4,92.6,0,0
+TRK-012,Haul Truck,Hitachi,Logistics & Haulage,Waste Dump,Diesel,2018-01-05,53360,64.4,9.2,121.2,Fault,Good,Normal,Overdue,90,2026-06-29,2026-09-21,1605.0,555.0,74.3,30,29
+LDR-001,Loader,Caterpillar,Underground Production,Level 12 Stope,Diesel,2025-04-28,10239,75.4,4.7,43.3,Good,Worn,Normal,Up to Date,90,2026-09-02,2026-11-28,1943.9,216.1,90.0,22,0
+LDR-002,Loader,Epiroc,Underground Production,Level 8 Haulage,Diesel,2017-02-15,53219,67.9,1.9,51.9,Good,Worn,Normal,Due,90,2026-07-04,2026-10-01,2010.9,149.1,93.1,0,0
+LDR-003,Loader,Sandvik,Underground Production,Level 12 Stope,Diesel,2022-02-26,26362,56.5,1.2,52.5,Good,Good,Normal,Up to Date,90,2026-08-15,2026-11-11,2028.9,131.1,93.9,0,0
+LDR-004,Loader,Caterpillar,Underground Production,Level 15 Decline,Diesel,2022-12-07,17178,31.2,0.0,0.0,Worn,Good,Stopped,Under Maintenance,90,2026-06-26,2026-09-22,1714.5,445.5,79.4,21,6
+LDR-005,Loader,Caterpillar,Underground Production,Level 8 Haulage,Diesel,2018-09-01,48515,32.4,0.0,0.0,Good,Good,Stopped,Under Maintenance,90,2026-06-29,2026-09-23,1844.4,315.6,85.4,0,0
+LDR-006,Loader,Sandvik,Underground Production,Level 8 Haulage,Diesel,2017-12-27,49280,97.4,3.3,56.2,Fault,Worn,Fault,Up to Date,90,2026-08-18,2026-11-20,1829.7,330.3,84.7,30,0
+LDR-007,Loader,Epiroc,Underground Production,Level 15 Decline,Diesel,2021-11-09,23526,64.2,1.4,47.6,Good,Good,Normal,Up to Date,90,2026-09-04,2026-12-01,1943.4,216.6,90.0,0,0
+LDR-008,Loader,Epiroc,Underground Production,Level 12 Stope,Diesel,2024-05-02,14889,106.3,8.2,52.6,Good,Worn,Normal,Up to Date,90,2026-07-31,2026-10-24,1895.8,264.2,87.8,30,4
+EXC-001,Excavator,Hitachi,Surface Mining,Pit North Bench 3,Diesel,2019-10-22,41021,73.9,2.1,75.5,Good,N/A,Normal,Up to Date,120,2026-07-02,2026-10-30,1970.1,189.9,91.2,18,0
+EXC-002,Excavator,Hitachi,Surface Mining,Pit North Bench 3,Diesel,2021-05-08,31912,61.7,2.9,73.6,Good,N/A,Normal,Up to Date,120,2026-08-11,2026-12-11,2040.6,119.4,94.5,0,0
+EXC-003,Excavator,Liebherr,Surface Mining,Pit South Bench 1,Diesel,2015-04-16,64335,61.5,3.8,106.3,Good,N/A,Normal,Up to Date,120,2026-07-24,2026-11-17,2020.3,139.7,93.5,0,0
+EXC-004,Excavator,Komatsu,Surface Mining,Pit North Bench 3,Diesel,2022-03-17,22072,94.7,2.9,101.7,Fault,N/A,Degraded,Up to Date,120,2026-07-24,2026-11-20,1883.3,276.7,87.2,30,1
+EXC-005,Excavator,Liebherr,Surface Mining,Pit South Bench 1,Diesel,2016-09-12,54408,61.1,2.2,107.6,Good,N/A,Normal,Due,120,2026-06-16,2026-10-09,2019.4,140.6,93.5,0,0
+EXC-006,Excavator,Hitachi,Surface Mining,Pit North Bench 3,Diesel,2016-08-05,49927,93.9,3.3,103.3,Good,N/A,Degraded,Overdue,120,2026-05-20,2026-09-10,1815.8,344.2,84.1,30,0
+DRL-001,Drilling Machine,Joy Global,Drilling & Blasting,Drill Bench 2,Diesel,2024-08-14,11184,55.9,2.7,27.5,Good,N/A,Normal,Up to Date,60,2026-09-04,2026-11-06,2027.6,132.4,93.9,0,0
+DRL-002,Drilling Machine,Joy Global,Drilling & Blasting,Drill Bench 2,Diesel,2023-08-04,16041,62.2,2.8,34.8,Good,N/A,Normal,Up to Date,60,2026-08-24,2026-10-17,1997.9,162.1,92.5,0,0
+DRL-003,Drilling Machine,Sandvik,Drilling & Blasting,Level 12 Stope,Diesel,2018-07-09,41691,65.1,3.2,32.9,Good,N/A,Normal,Overdue,60,2026-06-21,2026-08-22,2017.8,142.2,93.4,0,0
+DRL-004,Drilling Machine,Joy Global,Drilling & Blasting,Drill Bench 2,Diesel,2023-05-26,20843,79.7,2.1,36.7,Good,N/A,Normal,Up to Date,60,2026-10-05,2026-12-07,1926.6,233.4,89.2,19,0
+DRL-005,Drilling Machine,Joy Global,Drilling & Blasting,Blast Panel 4,Diesel,2015-11-06,50221,83.4,5.0,30.1,Worn,N/A,Normal,Up to Date,60,2026-10-13,2026-12-09,1925.5,234.5,89.1,30,0
+DRL-006,Drilling Machine,Sandvik,Drilling & Blasting,Level 12 Stope,Diesel,2016-04-30,63976,37.2,0.0,0.0,Good,N/A,Stopped,Under Maintenance,60,2026-08-02,2026-09-28,1959.2,200.8,90.7,1,0
+DRL-007,Drilling Machine,Joy Global,Drilling & Blasting,Blast Panel 4,Diesel,2024-05-15,13104,29.3,0.0,0.0,Good,N/A,Stopped,Under Maintenance,60,2026-08-03,2026-09-28,1955.9,204.1,90.6,0,0
+DRL-008,Drilling Machine,Joy Global,Drilling & Blasting,Drill Bench 2,Diesel,2016-06-14,64386,55.5,5.0,33.7,Worn,N/A,Normal,Due,60,2026-08-13,2026-10-08,1933.7,226.3,89.5,30,0
+DOZ-001,Bulldozer,Komatsu,Surface Mining,Pit South Ramp,Diesel,2021-03-25,30636,66.3,10.2,68.3,Worn,N/A,Degraded,Up to Date,120,2026-07-19,2026-11-11,1884.3,275.7,87.2,30,15
+DOZ-002,Bulldozer,Komatsu,Surface Mining,Pit South Ramp,Diesel,2022-11-07,21578,62.6,2.5,64.2,Good,N/A,Normal,Up to Date,120,2026-06-27,2026-10-22,2040.7,119.3,94.5,0,0
+DOZ-003,Bulldozer,Komatsu,Surface Mining,Waste Dump,Diesel,2023-04-12,22386,63.1,3.7,67.7,Good,N/A,Normal,Up to Date,120,2026-07-01,2026-11-03,2049.7,110.3,94.9,0,0
+DOZ-004,Bulldozer,Komatsu,Surface Mining,Waste Dump,Diesel,2018-02-06,40549,66.7,1.8,75.8,Good,N/A,Normal,Up to Date,120,2026-08-03,2026-11-30,2037.2,122.8,94.3,0,0
+DOZ-005,Bulldozer,Caterpillar,Surface Mining,Pit South Ramp,Diesel,2015-11-30,45764,71.2,2.4,83.6,Good,N/A,Normal,Up to Date,120,2026-06-24,2026-10-24,2018.0,142.0,93.4,0,0
+SCW-001,Scraper Winch,Joy Global,Underground Production,Level 15 Stope,Electric,2025-01-25,10081,65.4,3.6,0.0,Good,N/A,Normal,Up to Date,60,2026-09-19,2026-11-21,2000.8,159.2,92.6,0,0
+SCW-002,Scraper Winch,Joy Global,Underground Production,Level 12 Stope,Electric,2017-10-28,36889,28.6,0.0,0.0,Good,N/A,Stopped,Under Maintenance,60,2026-07-22,2026-09-22,1640.9,519.1,76.0,20,0
+SCW-003,Scraper Winch,Joy Global,Underground Production,Level 12 Stope,Electric,2025-05-03,8502,63.9,1.9,0.0,Good,N/A,Normal,Due,60,2026-08-17,2026-10-13,2028.2,131.8,93.9,0,0
+SCW-004,Scraper Winch,Joy Global,Underground Production,Level 15 Stope,Electric,2024-07-09,11750,60.0,3.2,0.0,Good,N/A,Normal,Due,60,2026-08-11,2026-10-03,1938.3,221.7,89.7,0,0
+SCW-005,Scraper Winch,Sandvik,Underground Production,Level 15 Stope,Electric,2024-04-08,15657,85.9,6.4,0.0,Good,N/A,Normal,Up to Date,60,2026-10-09,2026-12-10,1945.5,214.5,90.1,30,0
+SCW-006,Scraper Winch,Sandvik,Underground Production,Level 15 Stope,Electric,2020-12-23,34109,80.8,3.7,0.0,Good,N/A,Degraded,Overdue,60,2026-07-01,2026-08-31,1929.3,230.7,89.3,11,0
+CRS-001,Crusher,Sandvik,Processing Plant,Primary Crusher Station,Electric,2015-09-26,52967,72.8,2.9,0.0,N/A,N/A,Normal,Up to Date,45,2026-08-30,2026-10-19,2029.2,130.8,93.9,0,0
+CRS-002,Crusher,Sandvik,Processing Plant,Primary Crusher Station,Electric,2024-08-12,13409,61.6,4.0,0.0,N/A,N/A,Normal,Up to Date,45,2026-09-14,2026-10-26,2019.3,140.7,93.5,0,0
+CRS-003,Crusher,FLSmidth,Processing Plant,Secondary Crusher Station,Electric,2025-03-20,8848,67.8,4.1,0.0,N/A,N/A,Normal,Up to Date,45,2026-08-30,2026-10-17,1973.2,186.8,91.4,0,0
+CRS-004,Crusher,FLSmidth,Processing Plant,Primary Crusher Station,Electric,2017-08-11,45460,71.9,4.5,0.0,N/A,N/A,Normal,Up to Date,45,2026-08-31,2026-10-19,1903.7,256.3,88.1,16,0
+CRS-005,Crusher,Metso,Processing Plant,Primary Crusher Station,Electric,2019-07-15,34262,69.6,3.4,0.0,N/A,N/A,Normal,Up to Date,45,2026-10-05,2026-11-21,1981.5,178.5,91.7,0,0
+CNV-001,Conveyor,Continental,Processing Plant,Overland Conveyor,Electric,2023-08-30,20367,58.6,3.0,0.0,N/A,N/A,Normal,Up to Date,60,2026-10-14,2026-12-09,2032.3,127.7,94.1,0,0
+CNV-002,Conveyor,Fenner Dunlop,Processing Plant,Overland Conveyor,Electric,2020-05-22,40053,63.4,7.1,0.0,N/A,N/A,Normal,Up to Date,60,2026-09-25,2026-11-23,1907.3,252.7,88.3,30,1
+CNV-003,Conveyor,FLSmidth,Processing Plant,Overland Conveyor,Electric,2023-02-13,16676,71.5,2.3,0.0,N/A,N/A,Normal,Due,60,2026-08-08,2026-10-01,2051.8,108.2,95.0,0,0
+CNV-004,Conveyor,Fenner Dunlop,Processing Plant,Stockpile Conveyor,Electric,2025-02-14,11394,105.2,8.2,0.0,N/A,N/A,Normal,Up to Date,60,2026-09-29,2026-12-02,1945.1,214.9,90.1,30,10
+CNV-005,Conveyor,Continental,Processing Plant,Stockpile Conveyor,Electric,2014-08-29,74481,61.2,3.5,0.0,N/A,N/A,Normal,Up to Date,60,2026-08-22,2026-10-23,2031.7,128.3,94.1,0,0
+CNV-006,Conveyor,FLSmidth,Processing Plant,Overland Conveyor,Electric,2014-11-02,71400,81.4,5.0,0.0,N/A,N/A,Normal,Up to Date,60,2026-09-08,2026-11-06,1987.0,173.0,92.0,22,0
+CNV-007,Conveyor,Fenner Dunlop,Processing Plant,Mill Feed Conveyor,Electric,2022-06-01,22789,66.7,2.5,0.0,N/A,N/A,Normal,Due,60,2026-08-08,2026-10-04,2039.1,120.9,94.4,0,0
+CNV-008,Conveyor,Continental,Processing Plant,Overland Conveyor,Electric,2014-07-13,71606,58.9,3.9,0.0,N/A,N/A,Normal,Up to Date,60,2026-09-06,2026-11-08,2050.0,110.0,94.9,0,0
+CNV-009,Conveyor,FLSmidth,Processing Plant,Overland Conveyor,Electric,2024-04-01,13785,66.6,3.7,0.0,N/A,N/A,Normal,Up to Date,60,2026-10-02,2026-12-05,2073.3,86.7,96.0,0,0
+CNV-010,Conveyor,FLSmidth,Processing Plant,Overland Conveyor,Electric,2023-08-31,18407,92.5,8.6,0.0,N/A,N/A,Normal,Up to Date,60,2026-10-17,2026-12-14,1741.2,418.8,80.6,30,18
